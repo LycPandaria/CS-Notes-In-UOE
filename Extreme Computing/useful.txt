@@ -1,0 +1,9 @@
+hadoop com.sun.tools.javac.Main WordCount.java
+
+jar cf task2-1.jar WordCount*.class
+
+hadoop jar task2-1.jar UniqueVersion /data/assignments/ex1/webSmall.txt /user/s1616245/assignment1/task2
+
+export JAVA_HOME=/usr/lib/jvm/java-1.8.0-sun-1.8.0.91/
+export PATH=${JAVA_HOME}/bin:${PATH}
+export HADOOP_CLASSPATH=${JAVA_HOME}/lib/tools.jar

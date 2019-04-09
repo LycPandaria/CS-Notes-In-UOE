@@ -1,0 +1,30 @@
+Secure Software Engineering, including
+CVEs, understanding their format and meaning
+CWE taxonomy
+McGraw/US-CERT's Secure Software Development Lifecycle
+The BSIMM maturity model
+
+Specific programming errors, including e.g.,
+Buffer overflows
+Out-by-one errors
+Integer/arithmetic overflows and wrap-arounds
+Faulty/missing error condition checking
+
+Platform and operating system level attacks
+Memory corruption through stack/heap overflow
+Assembly programs and shell-code attacks
+OS command injection
+Permissions attacks, e.g. in Unix
+Defences, e.g. separation mechanisms, tamper detection
+
+Web application attacks and defences
+HTTP and attacks
+Session stealing, authentication errors
+XSS, CSRF
+
+Advanced secure programming
+Information leakage and race conditions
+Program analysis tools for security
+Static versus dynamic analysis
+Issues in static analysis (false positives, missing defects)
+Language based security, e.g. custom type checking

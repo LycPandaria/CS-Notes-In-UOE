@@ -1,0 +1,216 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{fullpage, parskip}
+
+\begin{document}
+
+\title{PPLS Coursework 1}
+\author{Jacob Essex\\s1040340}
+\date{}
+\maketitle
+
+\subsubsection*{Q1}
+
+Adding labels to the given code. For simplicity I don't label the first line as I assume it always executes
+
+\begin{verbatim}
+int x = 10, y = 0;
+co
+    while (x!=y) { ##A
+        x = x-1; ##B
+    }
+    y = y+1; ##C
+    //
+    <await (x==y);> ##D
+    x = 8; ##E
+    y = 2; ##F
+oc
+\end{verbatim}
+
+Path are represented in a similar way to a regular expressions, in that (A,B)* means 0
+or more iterations of A followed by B. Where a line isn't an atomic
+operation the line letter (i.e. C) represents the occurrence of all operations on the line. Adding an apostrophe (i.e. C') represents the occurrence
+of the first operation, adding another (C'') to represent the second operation etc.
+
+In many cases there are a large number of possible paths to the output.
+While I have hopefully listed all possible outputs the paths given are
+just an example of how a given output could be reached.
+
+First considering only simple paths through the program that for simplicity treat the
+loop (A,B) and all lines as atomic we find the following outputs and
+paths:
+
+\begin{verbatim}
+x = 8, y = 3: (A,B)*, D, E, F, C
+x = 8, y = 2: (A,B)*, D, E, C, F
+
+x = 0, y = 3: (A,B)*, D, E, (A,B)*, F, C
+x = 0, y = 2: (A,B)*, D, E, (A,B)*, C, F
+
+x = 0, y = 1 (fail to terminate): (A, B)*, C, D
+\end{verbatim}
+
+The result where $x = 0$, $y = 1$ fails to terminate due to the condition
+for line D not being met. So the second block (D, E, F) is never fully executed
+
+Lines C and B are clearly not atomic as they are actually both a read
+and a write. Representing the operation in a hypothetical form of assembly language
+may give something such as follows:
+
+\begin{verbatim}
+Load @x, r1
+Add r1, 1
+Store r1, @x
+\end{verbatim}
+
+Clearly other commands can be interleaved between these three commands. 
+ The \verb Add  operation is not observable to other processors, so in our considerations
+we can reduce the complexity of our considerations by just considering
+the observable events such for B and C, i.e. load and store. We labeled
+these as B' and B' or C' and C'' for B and C respectively. So for B:
+
+\begin{verbatim}
+Load @x, r1 ##B'
+Add r1, 1
+Store r1, @x ##B''
+\end{verbatim}
+
+%This means that other operations on the variable can be interleaved
+%between the read and the write. As mentioned above the notation used is
+%that the operation C is in fact two operations, C and C'. Considering
+%this along
+Looking at paths assuming C is split into multiple operations gives the following
+possible paths through the program:
+
+\begin{verbatim}
+x = 8, y = 1: (A, B)*, D, E, C', F, C''
+x = 0, y = 1: (A, B)*, B, D, E, (A,B)*, C', F, C''
+\end{verbatim}
+
+There is also the case when F sets $y$ to a value greater than $x$
+causing an infinite loop. Depending on the model there is of course the
+eventual result that $x$ will underflow but I assume that we are dealing with a
+language that has integers that are not bounded by word length. A path that causes this is as follows:
+
+\begin{verbatim}
+x -> -INF , y = 2: (A, B)*, D, E, (A, B)*, F, (A, B)*, C
+\end{verbatim}
+
+The following example is very dependant on the points at which the
+interleaving happens. For example if at the point where F is
+executed $x$ is less than $2$ then the program will fail to terminate with $x$
+tending to minus infinity which is clearly the same output as the above example. 
+In the case where this doesn't happen we get the following result:
+
+\begin{verbatim}
+x = 2, y = 3: (A, B)*, D, E, (A, B)*, A, F, B, (A, B)*, C
+\end{verbatim}
+
+I couldn't find any cases where the lack of atomicity in lines A (due to two loads)
+and B that caused a difference in output.
+
+Of course this is not the only set of paths. The code we are
+considering is assumed to be unoptimized and so the code maintains its order. Due to things
+such as super scaler execution and reordering, loop unrolling etc I
+would suspect that the actual possible outputs are far larger and also
+compiler and machine dependant. I also expect that this would be close
+to impossible to analyse by hand.
+
+\newpage
+\subsubsection*{Q2}
+
+%\begin{itemize}
+%    \itemsep1pt\parskip0pt\parsep0pt
+%    \item In the mp impl, messages sent are deg(v) and rndvalue(v) and the first legal colour
+%    \item In the shared memory version this data is readable by everyone
+%\end{itemize}
+This presented algorithm uses multiple iterations, where each iteration is
+made up of a defined number stages. In the stages the data held by that particular processor
+about the given node is either examined and acted on or data is sent to connected processors.
+Each processor holds internal state about the node $v$ such as the list of colours it that it is impossible for that node to be.
+
+Unlike the message passing implementation in a shared variable environment the data is readable by all processors which means that rather
+than processors sending data to receiving processors, the receiving processors would just read the data themselves. This leads to the problem that it is possible for data to be read when it is in an inconsistent state. It would also become possible for the data to be processed at different speeds so the algorithm could move out of lockstep, leading to one processor being be multiple iterations ahead of other processor thereby breaking the algorithm.
+
+%\begin{itemize}
+%\itemsep1pt\parskip0pt\parsep0pt
+%\item This is most simalar to the Interacting Peers Pattern
+%
+%  \begin{itemize}
+%  \item Same Program Multiple Data
+%  \item Each processor responsible for maintaining data about invlaid colours etc
+%  \item Use barriers to maintain syncronisation. Simalar to Jacboi algo\ldots{} mentioned in lectures
+%  \item Dealing with more tasks per node just means that a single processor has to preform the work of multiple nodes per round
+%  \item Sequentially
+%  \item Either threads to allow each task to be run in parallel
+%  \item Equlivent as long as long as the entire thing remains in lockstep
+%  \end{itemize}
+%\end{itemize}
+
+\paragraph{Interacting Peers} Moving the algorithm to a shared variable environment would lead to a pattern that looked similar to the interacting peers pattern.  Each processor has some other number of processors it interacts with (defined by the layout of the graph). As with other iteration based algorithms that use this pattern such as the Jacobi algorithm an ideal way of synchronising the processors is to use barriers. This would  ensure the algorithm runs in lockstep and every processor remains at the same stage and iteration of the algorithm as every other processor. 
+
+Given that it is possible for a node to be allocated a colour and so not need to preform any further processing care should be taken that only active processors need to enter the barrier.
+
+If the algorithm was altered to allow for multiple graph nodes per processor then unlike previously where there was a direct mapping between processors and nodes, each processor would be allocated multiple nodes to process. Then for each stage of the algorithm each processor would have to preform each of the tasks for some number of nodes $\geq$ 1.
+
+It is possible that having multiple nodes per processor would be a significant benefit as
+due to the number of barriers a significant amount of time would be spent synchronizing.
+I would make the assumption that in many cases having a single processor processing 20 nodes is
+faster than 20 processors each processing 1 node.
+
+%\begin{itemize}
+%\itemsep1pt\parskip0pt\parsep0pt
+%\item
+%  Could be implemented using bag of tasks, but doesn't fit that well
+%
+%  \begin{itemize}
+%  \itemsep1pt\parskip0pt\parsep0pt
+%  \item Would need to use a master to schedule tasks
+%  \item Does have the advantage of implictly supporting more than one node per processor
+%  \item Allows different performance of nodes as faster nodes just process more tasks
+%  \item load distribution, deals better with nodes stopping
+%  \item node not tied to a processor
+%  \end{itemize}
+%\end{itemize}
+
+\paragraph{Bag of tasks} It would also be possible to implement the algorithm using the bag of tasks
+pattern. This isn't quite as elegant and it would be slightly shoehorned
+however it does have several distinct advantages. The most notable of which is
+the lack of a node (or set of nodes) being assigned to a single processor,
+which is possible due to shared memory between processors. This in turn allows
+load balancing work between processors to minimize the waiting time if a
+processor is idle (due to all its nodes having been assigned a colour) and is able
+to deal better with a multiprogramming environment (such as the OS needing to use some clock cycles on a particular processor).
+
+Care would have to be taken to ensure that the task queue is ordered so
+that the steps are processed in the correct order. Any system implanting
+this would have to be taken to ensure that that tasks for a further step of the algorithm are not
+started before all the tasks for the current step have finished.  The simplest method that I can see is that the bag of tasks has some understanding of the task and so requires all processors to be waiting for a task before tasks to preform the next step of the algorithm are made available.
+
+Given that there is a central bag of tasks then the overhead of having a single
+processor processing for each node would be extremely inefficient as waiting for
+and getting a task could quite conceivable take longer than the task itself.
+
+However using this method does mean that having multiple nodes per processor is trivial as the pattern doesn't make any assumption of which node belongs to which processor and so to support more nodes than processors is simply a matter of creating more tasks. This would then allow each processor to get large numbers of tasks from the bag of tasks thereby reducing the inefficacies of having a single point allocating tasks.
+
+%\begin{itemize}
+%\itemsep1pt\parskip0pt\parsep0pt
+%\item In this case, neither the other two patterns metnioned in lectures makes any sense
+%
+%  \begin{itemize}
+%  \itemsep1pt\parskip0pt\parsep0pt
+%  \item Producer and consumer
+%  \item Pipeline
+%  \end{itemize}
+%\item Not the best of ideas, maybe use a better algo? Look into this
+%\end{itemize}
+
+
+\paragraph{Other patterns}
+Of two other patterns mentioned in the lecture, non of them make much sense to apply in this case.
+
+The pipeline pattern makes very little sense as although it is iteration based there is no linear process that the data will follow.
+
+While each process does produce data that is sent to another process, it doesn't fit the producer consumer model as the data flow is multi-way, i.e. each producer is also a consumer. There is also no need for the standard producer consumer pattern (of for example having a circular buffer) as the algorithm works in such a way that synchronisation is achieved by the algorithm ensuring that running each processor runs each step in lockstep.
+
+
+\end{document}

@@ -1,0 +1,3 @@
+-DIGNITE_ HOME=G:\JavaTool\apache-ignite-fabric-1.7.0-bin
+
+D:\DS\pagecounts1 D:\DS\pagecounts2 D:\DS\pagecounts3

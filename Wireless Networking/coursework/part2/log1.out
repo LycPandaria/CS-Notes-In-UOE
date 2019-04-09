@@ -1,0 +1,16 @@
+Waf: Entering directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (8.447s)
+----------------------------
+  AARF With 1 stations in Seed:1
+  Throughput: 21.3362 Mbps
+
+----------------------------
+  AARF With 5 stations in Seed:2
+  Throughput: 9.17092 Mbps
+
+----------------------------
+  AARF With 5 stations in Seed:3
+  Throughput: 1.15047 Mbps
+

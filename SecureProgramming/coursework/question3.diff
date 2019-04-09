@@ -1,0 +1,203 @@
+diff -cr ./old/functions.php ./new/functions.php
+*** ./old/functions.php	2017-03-06 21:18:28.000000001 +0000
+--- ./new/functions.php	2017-03-18 20:38:40.000000001 +0000
+***************
+*** 48,66 ****
+      $insert->bindParam(':name', $username);
+      $insert->execute();
+  
+!     print("<p>Created login for '{$username}'.</p>");
+  }
+  
+  // Try and sign a use up to the voting system
+  function signup($username, $password)
+  {
+      try
+      {
+       	$db = get_db();
+!         if (check_uniqueness($db, $username))
+!         { add_user($db, $username, $password); }
+!         else
+! 	{ print("<p>Username '{$username}' is already registered.</p>"); }
+      }
+      catch(PDOException $e)
+      {
+--- 48,75 ----
+      $insert->bindParam(':name', $username);
+      $insert->execute();
+  
+! 
+! 	  // fix 3 XSS
+!     $user = htmlspecialchars($username);
+!     print("<p>Created login for '{$user}'.</p>");
+  }
+  
+  // Try and sign a use up to the voting system
+  function signup($username, $password)
+  {
++   // fix 4
++   $password = md5($password);
+      try
+      {
+       	$db = get_db();
+!       if (check_uniqueness($db, $username))
+!       { add_user($db, $username, $password); }
+!       else
+!       {
+!       	// fix 3 XSS
+!         $user = htmlspecialchars($username);
+!       	print("<p>Username '{$user}' is already registered.</p>");
+!       }
+      }
+      catch(PDOException $e)
+      {
+***************
+*** 73,78 ****
+--- 82,88 ----
+  {
+      setcookie("username", $username);
+      setcookie("session", md5($username));
++ 
+  }
+  
+  // Check a session token
+***************
+*** 91,103 ****
+  function login($username, $password)
+  {
+      logout();
+! 
+      try
+      {
+       	$db = get_db();
+  
+!         $check = $db->prepare("SELECT * FROM users WHERE username='".$username."' AND password='".$password."'");
+!         $result = $check->execute();
+  
+          while ($row = $check->fetch())
+          {
+--- 101,116 ----
+  function login($username, $password)
+  {
+      logout();
+!     // fix 4
+!     $password = md5($password);
+      try
+      {
+       	$db = get_db();
+  
+!         // fix1: SQL injection
+!         $check = $db->prepare("SELECT * FROM users WHERE username=? AND password=?");
+!         $result = $check->execute(array($username, $password));
+! 
+  
+          while ($row = $check->fetch())
+          {
+***************
+*** 144,164 ****
+  
+         	while ($row = $messages->fetch())
+          {
+              print "<blockquote>";
+              print "<p>";
+       	    print "<img src='".$row['link']."' />";
+              print "</p>";
+              print "<footer>";
+              print "<cite>";
+!             print $row['user'];
+              print "</cite>";
+              print "<br/>";
+              print "<cite>";
+              print "<b>Vote count: ".$row['vote']."</b>";
+              print "</cite>";
+              print "</footer>";
+! 	    print "<form action='vote.php' method='GET'>";
+!             print "<input type='hidden' name='vote' value='".$row['user']."' />";
+              print "<input type='submit' value='Vote for me' />";
+              print "</form>";
+              print "</blockquote>";
+--- 157,179 ----
+  
+         	while ($row = $messages->fetch())
+          {
++             $user = htmlspecialchars($row['user']);
+              print "<blockquote>";
+              print "<p>";
+       	    print "<img src='".$row['link']."' />";
+              print "</p>";
+              print "<footer>";
+              print "<cite>";
+!             print $user;
+              print "</cite>";
+              print "<br/>";
+              print "<cite>";
+              print "<b>Vote count: ".$row['vote']."</b>";
+              print "</cite>";
+              print "</footer>";
+!             // fix 2 CSRF, using POST
+! 	          print "<form action='vote.php' method='POST'>";
+!             print "<input type='hidden' name='vote' value='".$user."' />";
+              print "<input type='submit' value='Vote for me' />";
+              print "</form>";
+              print "</blockquote>";
+***************
+*** 174,181 ****
+--- 189,199 ----
+  // Print the image submit form
+  function image_submit_form($username)
+  {
++ 
++     $username = htmlspecialchars($username);
+      print '<h6> You have logged in with username: '.$username.'</h6>';
+      print '<form action="index.php" method="post">';
++ 
+      print '<fieldset>';
+      print '<div class="col-lg-6">';
+      print '  <div class="input-group">';
+diff -cr ./old/vote.php ./new/vote.php
+*** ./old/vote.php	2017-03-06 22:31:58.000000001 +0000
+--- ./new/vote.php	2017-03-13 15:42:59.000000001 +0000
+***************
+*** 32,48 ****
+        <?php
+  	if (check_signed_in())
+          {
+!             if (!isset($_GET['vote']) || check_uniqueness(get_db(),$_GET['vote']))
+              {
+               	print ("<p>Invalid vote!!</p>");
+              }
+!             elseif ($_COOKIE['username'] == $_GET['vote'])
+              {
+                  print ("<p>You cannot vote for yourself!!</p>");
+              }
+              else
+              {
+!                 if(vote($_COOKIE['username'],$_GET['vote'])) 
+                  {
+                      header("Location:/");
+                  }
+--- 32,48 ----
+        <?php
+  	if (check_signed_in())
+          {
+!             if (!isset($_POST['vote']) || check_uniqueness(get_db(),$_POST['vote']))
+              {
+               	print ("<p>Invalid vote!!</p>");
+              }
+!             elseif ($_COOKIE['username'] == $_POST['vote'])
+              {
+                  print ("<p>You cannot vote for yourself!!</p>");
+              }
+              else
+              {
+!                 if(vote($_COOKIE['username'],$_POST['vote']))
+                  {
+                      header("Location:/");
+                  }
+***************
+*** 65,68 ****
+      <script src="js/bootstrap.min.js"></script>
+    </body>
+  </html>
+- 
+--- 65,67 ----

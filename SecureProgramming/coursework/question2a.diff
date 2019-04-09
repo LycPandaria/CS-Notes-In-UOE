@@ -1,0 +1,38 @@
+*** vulnerable.c	2017-03-03 18:35:59.000000001 +0000
+--- fix.c	2017-03-13 16:02:05.000000001 +0000
+***************
+*** 3,17 ****
+  #include <string.h>
+  #include <openssl/md5.h>
+  
+  int main(int argc, char **argv) {
+!     char correct_hash[16] = {
+!         0xd0, 0xf9, 0x19, 0x94, 0x4a, 0xf3, 0x10, 0x92,
+!         0x32, 0x98, 0x11, 0x8c, 0x33, 0x27, 0xda, 0xac
+!     };
+      char password[16];
+  
+      printf("Insert your password: ");
+!     scanf("%29s", password);
+  
+      MD5(password, strlen(password), password);
+  
+--- 3,20 ----
+  #include <string.h>
+  #include <openssl/md5.h>
+  
++ // change correct_hash to constant global variable
++ const char correct_hash[] = {
++ 0xd0, 0xf9, 0x19, 0x94, 0x4a, 0xf3, 0x10, 0x92,
++ 0x32, 0x98, 0x11, 0x8c, 0x33, 0x27, 0xda, 0xac
++ };
++ 
+  int main(int argc, char **argv) {
+! 
+      char password[16];
+  
+      printf("Insert your password: ");
+!     scanf("%16s", password);
+  
+      MD5(password, strlen(password), password);
+  

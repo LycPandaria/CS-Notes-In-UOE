@@ -1,0 +1,8 @@
+#! /bin/bash
+
+# Build the Login class if not already done
+if [ ! -e './Login.class' ]; then
+	/usr/bin/make Login.class
+fi
+
+/usr/bin/java -cp '.:/usr/share/java/xerial-sqlite-jdbc/sqlite-jdbc-3.7.2.jar' Login $@

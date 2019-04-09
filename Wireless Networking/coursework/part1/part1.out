@@ -1,0 +1,2007 @@
+Waf: Entering directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (12.317s)
+----------------------------
+  AARF-NoFading
+  Distance: 5, Seed:1
+  Throughput: 21.3362 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 5, Seed:2
+  Throughput: 21.3405 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 5, Seed:3
+  Throughput: 21.4347 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 5, Seed:4
+  Throughput: 21.2891 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 5, Seed:5
+  Throughput: 21.4566 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 10, Seed:6
+  Throughput: 21.417 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 10, Seed:7
+  Throughput: 21.3413 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 10, Seed:8
+  Throughput: 21.4406 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 10, Seed:9
+  Throughput: 21.3867 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 10, Seed:10
+  Throughput: 21.3396 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 15, Seed:11
+  Throughput: 21.4759 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 15, Seed:12
+  Throughput: 21.4305 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 15, Seed:13
+  Throughput: 21.4886 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 15, Seed:14
+  Throughput: 21.3017 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 15, Seed:15
+  Throughput: 21.4886 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 20, Seed:16
+  Throughput: 21.3699 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 20, Seed:17
+  Throughput: 21.3817 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 20, Seed:18
+  Throughput: 21.2874 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 20, Seed:19
+  Throughput: 21.4566 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 20, Seed:20
+  Throughput: 21.4103 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 25, Seed:21
+  Throughput: 21.4398 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 25, Seed:22
+  Throughput: 21.3295 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 25, Seed:23
+  Throughput: 21.4827 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 25, Seed:24
+  Throughput: 21.4583 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 25, Seed:25
+  Throughput: 21.4078 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 30, Seed:26
+  Throughput: 16.0384 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 30, Seed:27
+  Throughput: 16.1554 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 30, Seed:28
+  Throughput: 16.1739 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 30, Seed:29
+  Throughput: 16.0914 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 30, Seed:30
+  Throughput: 16.0939 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 35, Seed:31
+  Throughput: 19.2306 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 35, Seed:32
+  Throughput: 19.0563 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 35, Seed:33
+  Throughput: 19.2154 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 35, Seed:34
+  Throughput: 19.2238 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 35, Seed:35
+  Throughput: 19.1262 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 40, Seed:36
+  Throughput: 18.7997 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 40, Seed:37
+  Throughput: 18.9251 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 40, Seed:38
+  Throughput: 18.7492 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 40, Seed:39
+  Throughput: 18.9183 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 40, Seed:40
+  Throughput: 18.8417 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 45, Seed:41
+  Throughput: 14.5664 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 45, Seed:42
+  Throughput: 14.7002 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 45, Seed:43
+  Throughput: 14.7086 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 45, Seed:44
+  Throughput: 14.6884 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 45, Seed:45
+  Throughput: 14.643 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 50, Seed:46
+  Throughput: 14.8113 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 50, Seed:47
+  Throughput: 14.8273 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 50, Seed:48
+  Throughput: 14.7381 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 50, Seed:49
+  Throughput: 14.7768 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 50, Seed:50
+  Throughput: 14.7499 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 55, Seed:51
+  Throughput: 11.0006 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 55, Seed:52
+  Throughput: 10.9854 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 55, Seed:53
+  Throughput: 11.1276 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 55, Seed:54
+  Throughput: 11.0771 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 55, Seed:55
+  Throughput: 11.1588 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 60, Seed:56
+  Throughput: 12.1241 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 60, Seed:57
+  Throughput: 12.0315 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 60, Seed:58
+  Throughput: 12.0955 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 60, Seed:59
+  Throughput: 12.1241 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 60, Seed:60
+  Throughput: 12.1056 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 65, Seed:61
+  Throughput: 12.0105 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 65, Seed:62
+  Throughput: 12.0483 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 65, Seed:63
+  Throughput: 12.0004 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 65, Seed:64
+  Throughput: 12.0298 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 65, Seed:65
+  Throughput: 12.0542 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 70, Seed:66
+  Throughput: 10.6614 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 70, Seed:67
+  Throughput: 10.6934 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 70, Seed:68
+  Throughput: 10.7683 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 70, Seed:69
+  Throughput: 10.6782 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 70, Seed:70
+  Throughput: 10.7001 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 75, Seed:71
+  Throughput: 8.73749 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 75, Seed:72
+  Throughput: 8.71813 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 75, Seed:73
+  Throughput: 8.76695 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 75, Seed:74
+  Throughput: 8.76442 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 75, Seed:75
+  Throughput: 8.78546 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 80, Seed:76
+  Throughput: 8.93106 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 80, Seed:77
+  Throughput: 8.85363 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 80, Seed:78
+  Throughput: 8.93948 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 80, Seed:79
+  Throughput: 8.86289 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 80, Seed:80
+  Throughput: 8.86878 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 85, Seed:81
+  Throughput: 8.69036 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 85, Seed:82
+  Throughput: 8.62808 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 85, Seed:83
+  Throughput: 8.61209 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 85, Seed:84
+  Throughput: 8.61041 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 85, Seed:85
+  Throughput: 8.59105 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 90, Seed:86
+  Throughput: 5.25495 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 90, Seed:87
+  Throughput: 5.34248 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 90, Seed:88
+  Throughput: 5.37951 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 90, Seed:89
+  Throughput: 5.2903 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 90, Seed:90
+  Throughput: 5.40139 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 95, Seed:91
+  Throughput: 4.12132 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 95, Seed:92
+  Throughput: 4.14488 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 95, Seed:93
+  Throughput: 4.13394 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 95, Seed:94
+  Throughput: 4.12889 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 95, Seed:95
+  Throughput: 4.11795 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 100, Seed:96
+  Throughput: 4.17097 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 100, Seed:97
+  Throughput: 4.17939 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 100, Seed:98
+  Throughput: 4.18191 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 100, Seed:99
+  Throughput: 4.16087 Mbps
+
+----------------------------
+  AARF-NoFading
+  Distance: 100, Seed:100
+  Throughput: 4.19538 Mbps
+
+***********************
+----------------------------
+  AARF-WithFading
+  Distance: 5, Seed:1
+  Throughput: 21.3152 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 5, Seed:2
+  Throughput: 21.4667 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 5, Seed:3
+  Throughput: 21.3186 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 5, Seed:4
+  Throughput: 21.2672 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 5, Seed:5
+  Throughput: 21.279 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 10, Seed:6
+  Throughput: 21.2925 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 10, Seed:7
+  Throughput: 21.4297 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 10, Seed:8
+  Throughput: 21.3455 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 10, Seed:9
+  Throughput: 21.4726 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 10, Seed:10
+  Throughput: 21.4263 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 15, Seed:11
+  Throughput: 17.3513 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 15, Seed:12
+  Throughput: 17.3563 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 15, Seed:13
+  Throughput: 17.5364 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 15, Seed:14
+  Throughput: 17.3235 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 15, Seed:15
+  Throughput: 17.3412 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 20, Seed:16
+  Throughput: 13.9032 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 20, Seed:17
+  Throughput: 14.0581 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 20, Seed:18
+  Throughput: 13.8973 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 20, Seed:19
+  Throughput: 13.9352 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 20, Seed:20
+  Throughput: 13.9302 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 25, Seed:21
+  Throughput: 11.6578 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 25, Seed:22
+  Throughput: 11.652 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 25, Seed:23
+  Throughput: 11.5611 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 25, Seed:24
+  Throughput: 11.4929 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 25, Seed:25
+  Throughput: 11.5754 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 30, Seed:26
+  Throughput: 9.83494 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 30, Seed:27
+  Throughput: 9.83578 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 30, Seed:28
+  Throughput: 9.88038 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 30, Seed:29
+  Throughput: 9.88543 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 30, Seed:30
+  Throughput: 9.86776 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 35, Seed:31
+  Throughput: 8.76358 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 35, Seed:32
+  Throughput: 8.90918 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 35, Seed:33
+  Throughput: 8.76695 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 35, Seed:34
+  Throughput: 8.80734 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 35, Seed:35
+  Throughput: 8.74591 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 40, Seed:36
+  Throughput: 7.2083 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 40, Seed:37
+  Throughput: 7.2588 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 40, Seed:38
+  Throughput: 7.39682 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 40, Seed:39
+  Throughput: 7.43469 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 40, Seed:40
+  Throughput: 7.33202 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 45, Seed:41
+  Throughput: 5.86006 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 45, Seed:42
+  Throughput: 5.9013 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 45, Seed:43
+  Throughput: 5.83734 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 45, Seed:44
+  Throughput: 5.8508 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 45, Seed:45
+  Throughput: 5.92066 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 50, Seed:46
+  Throughput: 4.99321 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 50, Seed:47
+  Throughput: 4.9444 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 50, Seed:48
+  Throughput: 4.94777 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 50, Seed:49
+  Throughput: 4.55306 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 50, Seed:50
+  Throughput: 4.41756 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 55, Seed:51
+  Throughput: 3.94963 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 55, Seed:52
+  Throughput: 3.57007 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 55, Seed:53
+  Throughput: 3.47833 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 55, Seed:54
+  Throughput: 3.59027 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 55, Seed:55
+  Throughput: 3.70556 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 60, Seed:56
+  Throughput: 2.19658 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 60, Seed:57
+  Throughput: 2.74025 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 60, Seed:58
+  Throughput: 2.38425 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 60, Seed:59
+  Throughput: 2.56267 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 60, Seed:60
+  Throughput: 2.10821 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 65, Seed:61
+  Throughput: 1.73117 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 65, Seed:62
+  Throughput: 2.12588 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 65, Seed:63
+  Throughput: 1.89108 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 65, Seed:64
+  Throughput: 1.69246 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 65, Seed:65
+  Throughput: 1.62765 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 70, Seed:66
+  Throughput: 1.55696 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 70, Seed:67
+  Throughput: 1.48206 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 70, Seed:68
+  Throughput: 1.42315 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 70, Seed:69
+  Throughput: 1.4425 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 70, Seed:70
+  Throughput: 1.52498 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 75, Seed:71
+  Throughput: 1.29354 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 75, Seed:72
+  Throughput: 1.10081 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 75, Seed:73
+  Throughput: 1.07052 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 75, Seed:74
+  Throughput: 1.00992 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 75, Seed:75
+  Throughput: 1.04274 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 80, Seed:76
+  Throughput: 0.960266 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 80, Seed:77
+  Throughput: 0.732192 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 80, Seed:78
+  Throughput: 1.0116 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 80, Seed:79
+  Throughput: 0.954374 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 80, Seed:80
+  Throughput: 0.863482 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 85, Seed:81
+  Throughput: 0.711152 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 85, Seed:82
+  Throughput: 0.785213 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 85, Seed:83
+  Throughput: 0.79952 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 85, Seed:84
+  Throughput: 0.82561 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 85, Seed:85
+  Throughput: 0.763331 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 90, Seed:86
+  Throughput: 0.718726 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 90, Seed:87
+  Throughput: 0.742291 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 90, Seed:88
+  Throughput: 0.708627 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 90, Seed:89
+  Throughput: 0.740608 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 90, Seed:90
+  Throughput: 0.700211 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 95, Seed:91
+  Throughput: 0.642982 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 95, Seed:92
+  Throughput: 0.697686 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 95, Seed:93
+  Throughput: 0.722093 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 95, Seed:94
+  Throughput: 0.691795 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 95, Seed:95
+  Throughput: 0.701053 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 100, Seed:96
+  Throughput: 0.632042 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 100, Seed:97
+  Throughput: 0.625309 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 100, Seed:98
+  Throughput: 0.634566 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 100, Seed:99
+  Throughput: 0.605952 Mbps
+
+----------------------------
+  AARF-WithFading
+  Distance: 100, Seed:100
+  Throughput: 0.626992 Mbps
+
+***********************
+----------------------------
+  CARA-NoFading
+  Distance: 5, Seed:1
+  Throughput: 21.4717 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 5, Seed:2
+  Throughput: 21.327 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 5, Seed:3
+  Throughput: 21.2908 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 5, Seed:4
+  Throughput: 21.3463 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 5, Seed:5
+  Throughput: 21.4095 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 10, Seed:6
+  Throughput: 21.2841 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 10, Seed:7
+  Throughput: 21.3548 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 10, Seed:8
+  Throughput: 21.2916 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 10, Seed:9
+  Throughput: 21.3766 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 10, Seed:10
+  Throughput: 21.4835 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 15, Seed:11
+  Throughput: 21.4759 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 15, Seed:12
+  Throughput: 21.2639 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 15, Seed:13
+  Throughput: 21.4204 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 15, Seed:14
+  Throughput: 21.4591 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 15, Seed:15
+  Throughput: 21.428 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 20, Seed:16
+  Throughput: 21.4111 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 20, Seed:17
+  Throughput: 21.3362 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 20, Seed:18
+  Throughput: 21.4389 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 20, Seed:19
+  Throughput: 21.5004 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 20, Seed:20
+  Throughput: 21.3337 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 25, Seed:21
+  Throughput: 21.4288 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 25, Seed:22
+  Throughput: 21.4701 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 25, Seed:23
+  Throughput: 21.3186 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 25, Seed:24
+  Throughput: 21.3043 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 25, Seed:25
+  Throughput: 21.364 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 30, Seed:26
+  Throughput: 11.4533 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 30, Seed:27
+  Throughput: 11.4247 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 30, Seed:28
+  Throughput: 11.4424 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 30, Seed:29
+  Throughput: 11.4769 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 30, Seed:30
+  Throughput: 11.4954 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 35, Seed:31
+  Throughput: 12.7494 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 35, Seed:32
+  Throughput: 12.7831 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 35, Seed:33
+  Throughput: 12.8049 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 35, Seed:34
+  Throughput: 12.7225 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 35, Seed:35
+  Throughput: 12.6981 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 40, Seed:36
+  Throughput: 12.5887 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 40, Seed:37
+  Throughput: 12.4607 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 40, Seed:38
+  Throughput: 12.5255 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 40, Seed:39
+  Throughput: 12.5222 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 40, Seed:40
+  Throughput: 12.5415 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 45, Seed:41
+  Throughput: 10.4847 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 45, Seed:42
+  Throughput: 10.4131 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 45, Seed:43
+  Throughput: 10.4257 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 45, Seed:44
+  Throughput: 10.4544 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 45, Seed:45
+  Throughput: 10.4089 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 50, Seed:46
+  Throughput: 10.5049 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 50, Seed:47
+  Throughput: 10.4687 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 50, Seed:48
+  Throughput: 10.5049 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 50, Seed:49
+  Throughput: 10.4156 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 50, Seed:50
+  Throughput: 10.4611 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 55, Seed:51
+  Throughput: 8.4463 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 55, Seed:52
+  Throughput: 8.38234 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 55, Seed:53
+  Throughput: 8.43872 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 55, Seed:54
+  Throughput: 8.52204 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 55, Seed:55
+  Throughput: 8.48669 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 60, Seed:56
+  Throughput: 8.85195 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 60, Seed:57
+  Throughput: 8.83596 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 60, Seed:58
+  Throughput: 8.86962 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 60, Seed:59
+  Throughput: 8.8671 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 60, Seed:60
+  Throughput: 8.85952 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 65, Seed:61
+  Throughput: 8.87551 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 65, Seed:62
+  Throughput: 8.81913 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 65, Seed:63
+  Throughput: 8.84522 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 65, Seed:64
+  Throughput: 8.87131 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 65, Seed:65
+  Throughput: 8.83932 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 70, Seed:66
+  Throughput: 8.08862 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 70, Seed:67
+  Throughput: 8.1004 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 70, Seed:68
+  Throughput: 8.10545 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 70, Seed:69
+  Throughput: 8.0398 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 70, Seed:70
+  Throughput: 8.10461 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 75, Seed:71
+  Throughput: 6.87082 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 75, Seed:72
+  Throughput: 6.80939 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 75, Seed:73
+  Throughput: 6.81948 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 75, Seed:74
+  Throughput: 6.82033 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 75, Seed:75
+  Throughput: 6.85231 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 80, Seed:76
+  Throughput: 6.88092 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 80, Seed:77
+  Throughput: 6.89186 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 80, Seed:78
+  Throughput: 6.87587 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 80, Seed:79
+  Throughput: 6.88934 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 80, Seed:80
+  Throughput: 6.87082 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 85, Seed:81
+  Throughput: 6.71176 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 85, Seed:82
+  Throughput: 6.76057 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 85, Seed:83
+  Throughput: 6.73196 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 85, Seed:84
+  Throughput: 6.67978 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 85, Seed:85
+  Throughput: 6.66379 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 90, Seed:86
+  Throughput: 4.79964 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 90, Seed:87
+  Throughput: 4.77608 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 90, Seed:88
+  Throughput: 4.85856 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 90, Seed:89
+  Throughput: 4.75588 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 90, Seed:90
+  Throughput: 4.819 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 95, Seed:91
+  Throughput: 4.03379 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 95, Seed:92
+  Throughput: 3.81245 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 95, Seed:93
+  Throughput: 4.01107 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 95, Seed:94
+  Throughput: 3.6315 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 95, Seed:95
+  Throughput: 3.8722 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 100, Seed:96
+  Throughput: 3.55744 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 100, Seed:97
+  Throughput: 3.58185 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 100, Seed:98
+  Throughput: 3.56081 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 100, Seed:99
+  Throughput: 3.5566 Mbps
+
+----------------------------
+  CARA-NoFading
+  Distance: 100, Seed:100
+  Throughput: 3.55155 Mbps
+
+***********************
+----------------------------
+  CARA-WithFading
+  Distance: 5, Seed:1
+  Throughput: 21.2706 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 5, Seed:2
+  Throughput: 21.2992 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 5, Seed:3
+  Throughput: 21.3775 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 5, Seed:4
+  Throughput: 21.4717 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 5, Seed:5
+  Throughput: 21.4953 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 10, Seed:6
+  Throughput: 19.9846 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 10, Seed:7
+  Throughput: 20.3617 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 10, Seed:8
+  Throughput: 20.1774 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 10, Seed:9
+  Throughput: 20.0393 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 10, Seed:10
+  Throughput: 20.1033 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 15, Seed:11
+  Throughput: 14.1229 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 15, Seed:12
+  Throughput: 14.1692 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 15, Seed:13
+  Throughput: 14.0817 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 15, Seed:14
+  Throughput: 14.3476 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 15, Seed:15
+  Throughput: 14.133 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 20, Seed:16
+  Throughput: 10.5764 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 20, Seed:17
+  Throughput: 10.573 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 20, Seed:18
+  Throughput: 10.7413 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 20, Seed:19
+  Throughput: 10.7287 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 20, Seed:20
+  Throughput: 10.6925 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 25, Seed:21
+  Throughput: 9.29547 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 25, Seed:22
+  Throughput: 9.21552 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 25, Seed:23
+  Throughput: 9.31062 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 25, Seed:24
+  Throughput: 9.19364 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 25, Seed:25
+  Throughput: 9.19364 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 30, Seed:26
+  Throughput: 8.11807 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 30, Seed:27
+  Throughput: 8.17025 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 30, Seed:28
+  Throughput: 8.13743 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 30, Seed:29
+  Throughput: 8.09703 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 30, Seed:30
+  Throughput: 8.22159 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 35, Seed:31
+  Throughput: 7.41113 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 35, Seed:32
+  Throughput: 7.27479 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 35, Seed:33
+  Throughput: 7.29583 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 35, Seed:34
+  Throughput: 7.27311 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 35, Seed:35
+  Throughput: 7.43469 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 40, Seed:36
+  Throughput: 6.41552 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 40, Seed:37
+  Throughput: 6.56027 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 40, Seed:38
+  Throughput: 6.53587 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 40, Seed:39
+  Throughput: 6.50978 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 40, Seed:40
+  Throughput: 6.47443 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 45, Seed:41
+  Throughput: 5.57223 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 45, Seed:42
+  Throughput: 5.71194 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 45, Seed:43
+  Throughput: 5.65808 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 45, Seed:44
+  Throughput: 5.55624 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 45, Seed:45
+  Throughput: 5.56971 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 50, Seed:46
+  Throughput: 4.45627 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 50, Seed:47
+  Throughput: 4.59514 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 50, Seed:48
+  Throughput: 4.67004 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 50, Seed:49
+  Throughput: 4.7744 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 50, Seed:50
+  Throughput: 4.67845 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 55, Seed:51
+  Throughput: 3.90839 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 55, Seed:52
+  Throughput: 3.96225 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 55, Seed:53
+  Throughput: 3.93111 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 55, Seed:54
+  Throughput: 3.98329 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 55, Seed:55
+  Throughput: 3.94542 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 60, Seed:56
+  Throughput: 3.15179 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 60, Seed:57
+  Throughput: 3.00704 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 60, Seed:58
+  Throughput: 2.88585 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 60, Seed:59
+  Throughput: 3.29655 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 60, Seed:60
+  Throughput: 3.02134 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 65, Seed:61
+  Throughput: 2.02152 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 65, Seed:62
+  Throughput: 2.42886 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 65, Seed:63
+  Throughput: 2.13851 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 65, Seed:64
+  Throughput: 2.41708 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 65, Seed:65
+  Throughput: 2.2597 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 70, Seed:66
+  Throughput: 1.80187 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 70, Seed:67
+  Throughput: 1.57548 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 70, Seed:68
+  Throughput: 1.65206 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 70, Seed:69
+  Throughput: 1.8389 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 70, Seed:70
+  Throughput: 1.89612 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 75, Seed:71
+  Throughput: 1.22958 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 75, Seed:72
+  Throughput: 1.30616 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 75, Seed:73
+  Throughput: 1.34908 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 75, Seed:74
+  Throughput: 1.34993 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 75, Seed:75
+  Throughput: 1.29438 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 80, Seed:76
+  Throughput: 0.987197 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 80, Seed:77
+  Throughput: 0.921552 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 80, Seed:78
+  Throughput: 1.03853 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 80, Seed:79
+  Throughput: 1.10165 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 80, Seed:80
+  Throughput: 1.12606 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 85, Seed:81
+  Throughput: 0.896304 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 85, Seed:82
+  Throughput: 0.945958 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 85, Seed:83
+  Throughput: 0.890413 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 85, Seed:84
+  Throughput: 0.911453 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 85, Seed:85
+  Throughput: 0.932493 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 90, Seed:86
+  Throughput: 0.780163 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 90, Seed:87
+  Throughput: 0.806253 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 90, Seed:88
+  Throughput: 0.771747 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 90, Seed:89
+  Throughput: 0.835709 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 90, Seed:90
+  Throughput: 0.791946 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 95, Seed:91
+  Throughput: 0.735558 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 95, Seed:92
+  Throughput: 0.669914 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 95, Seed:93
+  Throughput: 0.695162 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 95, Seed:94
+  Throughput: 0.717043 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 95, Seed:95
+  Throughput: 0.685904 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 100, Seed:96
+  Throughput: 0.642982 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 100, Seed:97
+  Throughput: 0.628675 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 100, Seed:98
+  Throughput: 0.716202 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 100, Seed:99
+  Throughput: 0.674963 Mbps
+
+----------------------------
+  CARA-WithFading
+  Distance: 100, Seed:100
+  Throughput: 0.584912 Mbps
+

@@ -1,0 +1,11 @@
+0 1 0	34
+
+0 1 FACT	1
+
+0 1 N	2
+
+0 1 ORIGINALIMAGE	1
+
+0 1 THERE	1
+
+0 1 X	3

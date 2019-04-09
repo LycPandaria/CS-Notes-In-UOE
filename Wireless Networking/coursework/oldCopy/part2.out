@@ -1,0 +1,334 @@
+Waf: Entering directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/afs/inf.ed.ac.uk/user/s16/s1616245/ComputerNetwork/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.597s)
+----------------------------
+  AARF With 1 stations in Seed:1
+Throughput: 20.7897 Mbps
+----------------------------
+  AARF With 1 stations in Seed:2
+Throughput: 20.7725 Mbps
+----------------------------
+  AARF With 1 stations in Seed:3
+Throughput: 20.8642 Mbps
+----------------------------
+  AARF With 1 stations in Seed:4
+Throughput: 20.7225 Mbps
+----------------------------
+  AARF With 1 stations in Seed:5
+Throughput: 20.9011 Mbps
+----------------------------
+  AARF With 5 stations in Seed:6
+Throughput: 0.996966 Mbps
+----------------------------
+  AARF With 5 stations in Seed:7
+Throughput: 1.09855 Mbps
+----------------------------
+  AARF With 5 stations in Seed:8
+Throughput: 1.01335 Mbps
+----------------------------
+  AARF With 5 stations in Seed:9
+Throughput: 1.03301 Mbps
+----------------------------
+  AARF With 5 stations in Seed:10
+Throughput: 0.919142 Mbps
+----------------------------
+  AARF With 10 stations in Seed:11
+Throughput: 0.853606 Mbps
+----------------------------
+  AARF With 10 stations in Seed:12
+Throughput: 0.89129 Mbps
+----------------------------
+  AARF With 10 stations in Seed:13
+Throughput: 0.866714 Mbps
+----------------------------
+  AARF With 10 stations in Seed:14
+Throughput: 0.875725 Mbps
+----------------------------
+  AARF With 10 stations in Seed:15
+Throughput: 0.865894 Mbps
+----------------------------
+  AARF With 15 stations in Seed:16
+Throughput: 0.844595 Mbps
+----------------------------
+  AARF With 15 stations in Seed:17
+Throughput: 0.851149 Mbps
+----------------------------
+  AARF With 15 stations in Seed:18
+Throughput: 0.847053 Mbps
+----------------------------
+  AARF With 15 stations in Seed:19
+Throughput: 0.844595 Mbps
+----------------------------
+  AARF With 15 stations in Seed:20
+Throughput: 0.848691 Mbps
+----------------------------
+  AARF With 20 stations in Seed:21
+Throughput: 0.82985 Mbps
+----------------------------
+  AARF With 20 stations in Seed:22
+Throughput: 0.824934 Mbps
+----------------------------
+  AARF With 20 stations in Seed:23
+Throughput: 0.830669 Mbps
+----------------------------
+  AARF With 20 stations in Seed:24
+Throughput: 0.827392 Mbps
+----------------------------
+  AARF With 20 stations in Seed:25
+Throughput: 0.836403 Mbps
+----------------------------
+  AARF With 25 stations in Seed:26
+Throughput: 0.80855 Mbps
+----------------------------
+  AARF With 25 stations in Seed:27
+Throughput: 0.801178 Mbps
+----------------------------
+  AARF With 25 stations in Seed:28
+Throughput: 0.810189 Mbps
+----------------------------
+  AARF With 25 stations in Seed:29
+Throughput: 0.80937 Mbps
+----------------------------
+  AARF With 25 stations in Seed:30
+Throughput: 0.816742 Mbps
+----------------------------
+  AARF With 30 stations in Seed:31
+Throughput: 0.776602 Mbps
+----------------------------
+  AARF With 30 stations in Seed:32
+Throughput: 0.789709 Mbps
+----------------------------
+  AARF With 30 stations in Seed:33
+Throughput: 0.792166 Mbps
+----------------------------
+  AARF With 30 stations in Seed:34
+Throughput: 0.772506 Mbps
+----------------------------
+  AARF With 30 stations in Seed:35
+Throughput: 0.784794 Mbps
+----------------------------
+  AARF With 35 stations in Seed:36
+Throughput: 0.793805 Mbps
+----------------------------
+  AARF With 35 stations in Seed:37
+Throughput: 0.786432 Mbps
+----------------------------
+  AARF With 35 stations in Seed:38
+Throughput: 0.787251 Mbps
+----------------------------
+  AARF With 35 stations in Seed:39
+Throughput: 0.783155 Mbps
+----------------------------
+  AARF With 35 stations in Seed:40
+Throughput: 0.761856 Mbps
+----------------------------
+  AARF With 40 stations in Seed:41
+Throughput: 0.761856 Mbps
+----------------------------
+  AARF With 40 stations in Seed:42
+Throughput: 0.761037 Mbps
+----------------------------
+  AARF With 40 stations in Seed:43
+Throughput: 0.756941 Mbps
+----------------------------
+  AARF With 40 stations in Seed:44
+Throughput: 0.779878 Mbps
+----------------------------
+  AARF With 40 stations in Seed:45
+Throughput: 0.78807 Mbps
+----------------------------
+  AARF With 45 stations in Seed:46
+Throughput: 0.772506 Mbps
+----------------------------
+  AARF With 45 stations in Seed:47
+Throughput: 0.771686 Mbps
+----------------------------
+  AARF With 45 stations in Seed:48
+Throughput: 0.750387 Mbps
+----------------------------
+  AARF With 45 stations in Seed:49
+Throughput: 0.763494 Mbps
+----------------------------
+  AARF With 45 stations in Seed:50
+Throughput: 0.763494 Mbps
+----------------------------
+  AARF With 50 stations in Seed:51
+Throughput: 0.764314 Mbps
+----------------------------
+  AARF With 50 stations in Seed:52
+Throughput: 0.774144 Mbps
+----------------------------
+  AARF With 50 stations in Seed:53
+Throughput: 0.749568 Mbps
+----------------------------
+  AARF With 50 stations in Seed:54
+Throughput: 0.762675 Mbps
+----------------------------
+  AARF With 50 stations in Seed:55
+Throughput: 0.763494 Mbps
+----------------------------
+  CARA With 1 stations in Seed:1
+Throughput: 20.7897 Mbps
+----------------------------
+  CARA With 1 stations in Seed:2
+Throughput: 20.7725 Mbps
+----------------------------
+  CARA With 1 stations in Seed:3
+Throughput: 20.8642 Mbps
+----------------------------
+  CARA With 1 stations in Seed:4
+Throughput: 20.7225 Mbps
+----------------------------
+  CARA With 1 stations in Seed:5
+Throughput: 20.9011 Mbps
+----------------------------
+  CARA With 5 stations in Seed:6
+Throughput: 11.5917 Mbps
+----------------------------
+  CARA With 5 stations in Seed:7
+Throughput: 12.324 Mbps
+----------------------------
+  CARA With 5 stations in Seed:8
+Throughput: 11.0526 Mbps
+----------------------------
+  CARA With 5 stations in Seed:9
+Throughput: 12.5878 Mbps
+----------------------------
+  CARA With 5 stations in Seed:10
+Throughput: 12.3683 Mbps
+----------------------------
+  CARA With 10 stations in Seed:11
+Throughput: 4.75464 Mbps
+----------------------------
+  CARA With 10 stations in Seed:12
+Throughput: 5.63446 Mbps
+----------------------------
+  CARA With 10 stations in Seed:13
+Throughput: 5.46243 Mbps
+----------------------------
+  CARA With 10 stations in Seed:14
+Throughput: 5.76799 Mbps
+----------------------------
+  CARA With 10 stations in Seed:15
+Throughput: 5.60333 Mbps
+----------------------------
+  CARA With 15 stations in Seed:16
+Throughput: 1.58515 Mbps
+----------------------------
+  CARA With 15 stations in Seed:17
+Throughput: 1.19931 Mbps
+----------------------------
+  CARA With 15 stations in Seed:18
+Throughput: 1.29597 Mbps
+----------------------------
+  CARA With 15 stations in Seed:19
+Throughput: 1.42868 Mbps
+----------------------------
+  CARA With 15 stations in Seed:20
+Throughput: 1.39837 Mbps
+----------------------------
+  CARA With 20 stations in Seed:21
+Throughput: 1.16572 Mbps
+----------------------------
+  CARA With 20 stations in Seed:22
+Throughput: 1.18047 Mbps
+----------------------------
+  CARA With 20 stations in Seed:23
+Throughput: 1.24027 Mbps
+----------------------------
+  CARA With 20 stations in Seed:24
+Throughput: 1.101 Mbps
+----------------------------
+  CARA With 20 stations in Seed:25
+Throughput: 1.21733 Mbps
+----------------------------
+  CARA With 25 stations in Seed:26
+Throughput: 0.989594 Mbps
+----------------------------
+  CARA With 25 stations in Seed:27
+Throughput: 0.982221 Mbps
+----------------------------
+  CARA With 25 stations in Seed:28
+Throughput: 0.99369 Mbps
+----------------------------
+  CARA With 25 stations in Seed:29
+Throughput: 0.97239 Mbps
+----------------------------
+  CARA With 25 stations in Seed:30
+Throughput: 1.0027 Mbps
+----------------------------
+  CARA With 30 stations in Seed:31
+Throughput: 1.00516 Mbps
+----------------------------
+  CARA With 30 stations in Seed:32
+Throughput: 0.915046 Mbps
+----------------------------
+  CARA With 30 stations in Seed:33
+Throughput: 0.918323 Mbps
+----------------------------
+  CARA With 30 stations in Seed:34
+Throughput: 0.879821 Mbps
+----------------------------
+  CARA With 30 stations in Seed:35
+Throughput: 1.02973 Mbps
+----------------------------
+  CARA With 35 stations in Seed:36
+Throughput: 0.930611 Mbps
+----------------------------
+  CARA With 35 stations in Seed:37
+Throughput: 0.925696 Mbps
+----------------------------
+  CARA With 35 stations in Seed:38
+Throughput: 0.933888 Mbps
+----------------------------
+  CARA With 35 stations in Seed:39
+Throughput: 0.917504 Mbps
+----------------------------
+  CARA With 35 stations in Seed:40
+Throughput: 0.899482 Mbps
+----------------------------
+  CARA With 40 stations in Seed:41
+Throughput: 0.846234 Mbps
+----------------------------
+  CARA With 40 stations in Seed:42
+Throughput: 0.896205 Mbps
+----------------------------
+  CARA With 40 stations in Seed:43
+Throughput: 0.896205 Mbps
+----------------------------
+  CARA With 40 stations in Seed:44
+Throughput: 0.833946 Mbps
+----------------------------
+  CARA With 40 stations in Seed:45
+Throughput: 0.907674 Mbps
+----------------------------
+  CARA With 45 stations in Seed:46
+Throughput: 0.898662 Mbps
+----------------------------
+  CARA With 45 stations in Seed:47
+Throughput: 0.896205 Mbps
+----------------------------
+  CARA With 45 stations in Seed:48
+Throughput: 0.963379 Mbps
+----------------------------
+  CARA With 45 stations in Seed:49
+Throughput: 0.8192 Mbps
+----------------------------
+  CARA With 45 stations in Seed:50
+Throughput: 0.861798 Mbps
+----------------------------
+  CARA With 50 stations in Seed:51
+Throughput: 0.831488 Mbps
+----------------------------
+  CARA With 50 stations in Seed:52
+Throughput: 0.865075 Mbps
+----------------------------
+  CARA With 50 stations in Seed:53
+Throughput: 0.963379 Mbps
+----------------------------
+  CARA With 50 stations in Seed:54
+Throughput: 0.853606 Mbps
+----------------------------
+  CARA With 50 stations in Seed:55
+Throughput: 0.892928 Mbps

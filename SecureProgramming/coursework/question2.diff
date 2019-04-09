@@ -1,0 +1,13 @@
+6,7c6
+< int main(int argc, char **argv) {
+<     char correct_hash[16] = {
+---
+> const char correct_hash[] = {
+10a10,12
+> 	
+> int main(int argc, char **argv) {
+>     
+14c16
+<     scanf("%29s", password);
+---
+>     scanf("%16s", password);

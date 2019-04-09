@@ -1,0 +1,5 @@
+mary had a 	2
+had a little 	2
+a little lamb 	1
+had a big 	1
+a big tiger 	1

@@ -1,0 +1,3 @@
+ssh student.ssh.inf.ed.ac.uk
+
+ssh scutter0$((RANDOM%7+1))

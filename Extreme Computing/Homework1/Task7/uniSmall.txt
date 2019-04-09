@@ -1,0 +1,2000 @@
+student   0   Barry
+student   1   Antil
+mark   1   DAPA   64
+mark   2   IAML   72
+mark   2   CCN   82
+mark   1   AR   82
+mark   2   COC   49
+mark   1   SLIP   40
+mark   1   BIO2   71
+student   2   Josh
+student   3   Andry
+mark   3   TTS   97
+mark   1   EXC   43
+mark   2   IJP   89
+mark   3   ES   98
+mark   1   AV   57
+student   4   Antle
+student   5   Dasia
+student   6   Ambrose
+student   7   Michael
+student   8   Sebastian
+student   9   Acock
+mark   0   COPT   100
+mark   0   ADS   46
+student   10   Annand
+student   11   Arkell
+student   12   Ackerman
+student   13   Ackley
+mark   13   AGTA   65
+student   14   Angleton
+student   15   Allerton
+mark   9   IRP   77
+student   16   Ackland
+student   17   Finley
+mark   2   AR   84
+mark   9   DMR   42
+student   18   Airington
+mark   13   IRP   77
+mark   18   ABS   60
+mark   4   TTS   51
+mark   4   IAML   77
+student   19   Juliet
+mark   13   PPLS   80
+mark   5   DISS   64
+student   20   Alltop
+student   21   Danna
+mark   14   AR   82
+mark   4   INF1-CG   93
+student   22   Aborn
+student   23   Anslow
+mark   14   BIO2   92
+mark   14   RTN   72
+student   24   Kaitlyn
+student   25   Arkell
+student   26   Mason
+student   27   Applewhite
+student   28   Harvey
+student   29   Adderly
+mark   6   EXC   84
+mark   21   PM   79
+mark   17   ES   96
+student   30   Darlene
+mark   8   TDD   99
+student   31   Allred
+student   32   Ager
+mark   31   RTN   47
+student   33   Benjamin
+mark   1   TDD   67
+student   34   Alley
+mark   10   ABS   52
+mark   34   DAPA   73
+student   35   Ailey
+mark   29   ES   97
+mark   14   HCI   52
+mark   3   DISS   54
+student   36   Allie
+mark   35   IRP   58
+student   37   Acre
+student   38   Angevine
+student   39   Angel
+mark   14   TDD   58
+student   40   Jay
+student   41   Andrew
+student   42   Ament
+mark   17   AGTA   88
+mark   13   ADBS   63
+mark   10   DISS   97
+mark   27   TTS   52
+student   43   Archey
+student   44   Allford
+student   45   Blake
+mark   41   ASR   83
+student   46   Ancell
+student   47   Kailey
+student   48   Addy
+student   49   Angleton
+student   50   Bevis
+student   51   Kalyn
+student   52   Amory
+mark   36   PPLS   76
+student   53   Bartholomew
+mark   2   ASR   61
+student   54   Allanson
+student   55   Oscar
+student   56   Alman
+student   57   Anable
+student   58   Anthony
+mark   19   INF2D   54
+mark   44   ANLP   73
+student   59   Alders
+student   60   Delilah
+mark   35   TDD   82
+student   61   Allums
+student   62   Ady
+mark   33   IAML   82
+student   63   Alcock
+student   64   Corinne
+mark   44   BIO2   88
+mark   58   DISS   82
+mark   32   INF2D   96
+mark   18   TTS   69
+mark   44   IAML   87
+mark   9   AGTA   97
+mark   63   BIO2   100
+student   65   Angevine
+mark   28   IRP   66
+mark   30   ASR   78
+mark   23   COPT   87
+mark   53   DISS   52
+student   66   Alloway
+mark   60   CCN   78
+student   67   Kyle
+student   68   Deasia
+mark   6   TTS   91
+student   69   Ale
+mark   24   BIO2   54
+mark   23   PM   40
+mark   59   TTS   49
+student   70   Arch
+mark   65   BIO2   76
+mark   35   PM   62
+student   71   Annable
+student   72   Arling
+student   73   Spencer
+student   74   Allgood
+student   75   Alison
+mark   68   AGTA   65
+student   76   Finley
+student   77   Adkins
+student   78   Allford
+student   79   Jude
+student   80   Abram
+student   81   Archdeacon
+mark   38   DAPA   62
+mark   50   EXC   68
+mark   7   COC   77
+student   82   Agar
+mark   30   COC   85
+mark   2   BIO1   92
+student   83   Anchors
+mark   72   INF1-CG   70
+mark   9   BIO1   49
+mark   69   SLIP   64
+mark   71   ADS   41
+mark   77   NIP   88
+student   84   Alred
+student   85   Kaleigh
+mark   7   DAPA   90
+mark   8   CCN   86
+student   86   Arling
+mark   51   TTS   67
+mark   24   ASR   96
+student   87   Albany
+mark   59   IJP   54
+mark   85   BIO1   54
+mark   12   IAML   74
+student   88   Addington
+mark   29   HCI   79
+mark   6   DISS   76
+student   89   Apling
+mark   87   ABS   42
+mark   56   ES   66
+student   90   Cristal
+student   91   Oliver
+mark   26   COC   55
+student   92   Apley
+mark   82   COC   65
+student   93   Ackers
+student   94   Argent
+student   95   Anable
+student   96   Ann
+student   97   Alban
+mark   72   CT   41
+mark   84   NIP   50
+mark   65   DAPA   95
+mark   51   IJP   87
+mark   89   TTS   54
+mark   51   NIP   54
+mark   55   ABS   67
+mark   8   INF2D   57
+student   98   Ansted
+mark   18   IAML   90
+student   99   Claudia
+mark   8   ADS   60
+student   100   Acy
+student   101   Ake
+mark   52   PPLS   53
+mark   23   ASR   73
+student   102   Amison
+mark   37   RTN   98
+mark   16   IRP   85
+student   103   Oliver
+student   104   Akerley
+student   105   Agar
+student   106   Kamryn
+mark   27   ES   95
+mark   26   ADBS   61
+student   107   Leo
+mark   64   ABS   59
+student   108   Adrian
+student   109   Darby
+student   110   Annand
+student   111   Kacie
+mark   74   ADBS   76
+student   112   Ailey
+mark   20   INF2D   68
+student   113   Alton
+mark   65   ES   58
+student   114   Finlay
+mark   9   ADS   70
+student   115   Abram
+mark   75   EXC   61
+mark   108   IJP   40
+mark   30   PPLS   91
+student   116   Leon
+student   117   Aldredge
+mark   108   ABS   41
+student   118   Crystal
+student   119   Abbitt
+mark   64   RTN   96
+mark   31   ADS   72
+student   120   Agard
+mark   94   ASR   68
+student   121   Sebastian
+student   122   Kieran
+mark   77   DAPA   68
+mark   0   COC   74
+mark   115   AR   46
+student   123   Cristal
+mark   51   ES   89
+student   124   Kalyn
+student   125   Logan
+student   126   Anchors
+student   127   Allin
+mark   61   TDD   92
+student   128   Mason
+mark   68   ANLP   54
+student   129   Alfrey
+mark   110   TDD   69
+mark   18   ADBS   60
+student   130   Allred
+mark   108   HCI   40
+mark   58   INF1-CG   86
+student   131   Angers
+student   132   Colleen
+mark   66   ADS   89
+mark   55   DISS   44
+student   133   Aldis
+student   134   Alwood
+student   135   Leo
+student   136   Akin
+student   137   Allmand
+student   138   Allis
+mark   34   DISS   100
+student   139   Anson
+student   140   Ansley
+student   141   Alban
+mark   93   BIO1   94
+student   142   Akey
+student   143   Algood
+mark   64   BIO1   89
+student   144   Alward
+mark   17   INF1-CG   74
+mark   99   ABS   92
+student   145   Angleton
+mark   98   TDD   51
+student   146   Bowen
+student   147   Michael
+mark   63   TDD   76
+mark   82   CT   44
+mark   49   BIO2   97
+student   148   Kaelyn
+student   149   Alvey
+mark   65   SLIP   95
+student   150   Alman
+mark   37   PPLS   68
+student   151   Abbey
+mark   55   COPT   74
+student   152   Basil
+mark   59   CT   70
+mark   39   COPT   40
+mark   119   ANLP   82
+student   153   Adley
+student   154   Acre
+mark   76   TTS   43
+student   155   Finlay
+mark   66   CCN   50
+mark   0   PM   89
+mark   88   AR   98
+student   156   Ann
+mark   73   TTS   63
+mark   92   AR   61
+student   157   Ailstock
+mark   25   ASR   92
+mark   79   CCN   63
+student   158   Allee
+student   159   Alway
+mark   92   DISS   45
+mark   145   PPLS   54
+student   160   Alvis
+mark   59   INF1-CG   53
+mark   102   HCI   51
+mark   39   DAPA   96
+student   161   Kaley
+student   162   Allyn
+student   163   Arch
+student   164   Arber
+mark   158   DISS   92
+mark   9   AV   86
+mark   54   IAML   71
+mark   15   CCN   64
+mark   18   SLIP   96
+student   165   Alls
+mark   43   NIP   61
+mark   62   IRR   77
+student   166   Cora
+mark   153   TTS   41
+mark   152   ADBS   84
+mark   151   BIO2   87
+student   167   Ailes
+mark   146   AR   53
+student   168   Alday
+mark   25   ANLP   67
+mark   112   IRP   95
+mark   106   DAPA   80
+mark   103   DMR   68
+mark   35   HCI   51
+mark   43   PM   53
+student   169   Alley
+mark   16   INF2D   81
+student   170   Darlene
+student   171   Amerson
+mark   126   ADS   83
+mark   22   DAPA   53
+mark   90   PPLS   82
+student   172   Aborn
+mark   83   DAPA   50
+mark   171   COC   79
+mark   110   EXC   74
+student   173   Aley
+mark   32   INF1-CG   76
+mark   23   HCI   42
+student   174   William
+mark   105   ASR   70
+student   175   Ace
+mark   87   TTS   58
+student   176   Argent
+student   177   Alcock
+student   178   Ailey
+mark   153   CCN   60
+mark   4   CT   54
+mark   141   IJP   63
+mark   106   DMR   87
+student   179   Baron
+student   180   Alvord
+student   181   James
+student   182   Akes
+mark   183   AV   44
+student   183   Harry
+student   184   Allred
+student   185   Alvord
+student   186   Angel
+student   187   Appleton
+student   188   Alvis
+mark   41   ES   72
+mark   94   SLIP   90
+mark   25   IJP   73
+student   189   Aney
+mark   72   RTN   64
+student   190   Patrick
+student   191   Danna
+mark   156   AV   74
+student   192   Adkinson
+mark   113   HCI   86
+student   193   Ammon
+mark   5   DMR   50
+student   194   Harry
+student   195   Allington
+student   196   Benedict
+mark   6   ASR   84
+student   197   Dayana
+student   198   Alday
+mark   173   ABS   99
+mark   161   ADS   63
+student   199   Allred
+mark   113   TDD   73
+mark   70   IRP   50
+student   200   Amason
+student   201   Adley
+mark   121   BIO2   54
+student   202   Finley
+mark   159   ABS   52
+student   203   Acomb
+student   204   Bernard
+student   205   Anness
+mark   191   DISS   64
+mark   181   PPLS   42
+mark   17   EXC   51
+mark   170   COC   83
+mark   171   ES   51
+student   206   Dalia
+student   207   Allsop
+mark   96   NIP   65
+student   208   Alvin
+student   209   Adcock
+mark   182   CT   53
+student   210   Allums
+mark   57   BIO1   66
+mark   47   ANLP   90
+mark   123   IRP   91
+mark   29   TDD   53
+student   211   Braden
+mark   140   ANLP   78
+student   212   Andrew
+mark   57   COC   56
+mark   7   IRP   81
+mark   79   DAPA   94
+student   213   Allinson
+mark   1   IRR   56
+student   214   Joel
+student   215   Cristina
+mark   97   DAPA   62
+student   216   Alders
+student   217   Kaia
+mark   138   EXC   82
+mark   200   IRR   55
+student   218   Adrian
+mark   124   AV   97
+mark   5   SLIP   64
+mark   71   PM   50
+mark   19   IAML   89
+mark   24   CT   92
+student   219   Dayana
+student   220   Kallie
+student   221   John
+mark   59   COC   93
+student   222   Anctil
+mark   26   PPLS   55
+student   223   Bowen
+student   224   Judith
+student   225   Ailstock
+mark   56   ADS   99
+student   226   Annas
+mark   50   TDD   92
+student   227   Able
+mark   193   EXC   91
+student   228   Anable
+student   229   Kali
+student   230   Acklin
+student   231   Acomb
+student   232   Abby
+student   233   Kaitlin
+mark   213   HCI   85
+mark   105   ABS   94
+student   234   Ace
+mark   128   ANLP   81
+mark   138   RTN   48
+student   235   Benjamin
+student   236   Age
+mark   201   AR   41
+mark   48   BIO1   78
+student   237   Antill
+student   238   Delaney
+student   239   Ament
+mark   190   COC   55
+student   240   Abrahams
+mark   196   INF1-CG   74
+mark   58   IJP   87
+student   241   Daisy
+mark   242   CCN   80
+mark   172   BIO1   50
+mark   55   PM   64
+mark   241   ADS   61
+mark   113   ADS   62
+student   242   Kallie
+student   243   George
+student   244   Ally
+mark   216   AR   68
+mark   110   BIO1   40
+mark   58   ANLP   61
+mark   167   AV   61
+student   245   Dana
+mark   243   IRP   56
+student   246   James
+student   247   Alsbrook
+mark   213   IRP   91
+student   248   Alfred
+mark   200   ASR   68
+mark   53   ANLP   72
+mark   232   RTN   100
+mark   70   IAML   97
+mark   232   DISS   54
+mark   103   ES   77
+mark   56   TDD   80
+mark   169   BIO1   81
+student   249   Colleen
+mark   15   ANLP   71
+student   250   Alsobrook
+mark   51   DAPA   55
+mark   201   BIO2   47
+student   251   Adrian
+mark   169   INF1-CG   75
+student   252   Alfrey
+mark   178   HCI   51
+mark   234   INF1-CG   100
+student   253   Alton
+student   254   Julianna
+student   255   Adkins
+mark   195   CT   61
+student   256   Annas
+student   257   Kieran
+mark   23   BIO1   86
+mark   188   IRP   87
+mark   19   BIO2   63
+student   258   Agate
+mark   182   ASR   95
+student   259   Appleyard
+student   260   Angleton
+mark   29   BIO1   42
+student   261   Delilah
+mark   152   CT   78
+student   262   Ake
+mark   30   EXC   57
+student   263   Brandan
+student   264   Alderman
+student   265   Kallie
+student   266   Joshua
+student   267   Julianna
+student   268   Acton
+mark   121   IJP   68
+mark   136   ADS   83
+mark   248   HCI   80
+student   269   Arledge
+student   270   Acre
+student   271   Allton
+student   272   Anable
+mark   161   TTS   87
+mark   3   RTN   53
+mark   268   NIP   67
+mark   12   AR   58
+mark   211   IRP   40
+student   273   Delilah
+mark   92   AV   50
+mark   266   ABS   58
+mark   211   ES   89
+student   274   Dominic
+student   275   Akey
+mark   56   IRP   96
+mark   165   AV   92
+mark   210   DAPA   62
+mark   172   DISS   54
+student   276   Alworth
+student   277   Annis
+mark   79   BIO2   99
+mark   32   COC   81
+mark   275   ASR   73
+mark   142   IRP   47
+mark   242   AGTA   79
+mark   72   NIP   49
+mark   60   DMR   74
+mark   277   IAML   79
+mark   191   AGTA   95
+student   278   Age
+student   279   Samuel
+mark   19   ES   87
+mark   103   IRP   43
+student   280   Deja
+mark   188   INF2D   50
+student   281   Barry
+mark   231   ADBS   40
+student   282   Amey
+mark   111   IRR   57
+mark   238   RTN   80
+student   283   Alleyne
+student   284   Antcliff
+mark   73   ADS   92
+mark   232   AR   44
+student   285   Andry
+mark   222   IRP   63
+student   286   Amos
+mark   88   DAPA   87
+student   287   Alewine
+student   288   Alcott
+mark   222   AR   85
+student   289   Joyce
+mark   205   IAML   55
+student   290   Arington
+student   291   Alfrey
+mark   151   ADBS   73
+mark   110   IRP   75
+mark   10   AR   97
+student   292   Liam
+mark   148   HCI   41
+mark   256   TDD   99
+student   293   Ally
+student   294   Judith
+student   295   Arendale
+student   296   Kali
+student   297   Kaitlynn
+student   298   Agers
+student   299   Aiton
+mark   165   ASR   98
+student   300   Kian
+student   301   Acy
+mark   147   PM   55
+mark   127   PPLS   73
+student   302   Kaitlynn
+mark   128   PM   91
+student   303   Aldis
+mark   226   NIP   92
+student   304   Ammon
+mark   292   TTS   49
+mark   11   AV   81
+mark   251   COPT   49
+mark   149   COC   95
+student   305   Angley
+student   306   Dylan
+mark   179   PPLS   75
+mark   281   COPT   52
+student   307   Brandan
+mark   171   IAML   57
+student   308   Deanna
+mark   12   DAPA   78
+student   309   Ament
+mark   202   DISS   60
+student   310   Dania
+mark   175   CT   94
+student   311   Joseph
+student   312   Amber
+mark   296   INF2D   87
+mark   239   RTN   56
+mark   35   IJP   96
+mark   282   HCI   71
+student   313   Aldred
+mark   248   ADBS   64
+student   314   Jonathan
+mark   176   INF2D   69
+mark   129   ES   45
+student   315   Adcox
+student   316   Addington
+student   317   Arden
+student   318   Amerson
+mark   220   DISS   90
+mark   311   HCI   94
+student   319   Allmand
+student   320   Harvey
+student   321   Allam
+mark   247   INF1-CG   53
+mark   10   AGTA   92
+mark   106   ANLP   98
+mark   25   AR   43
+mark   309   DISS   96
+student   322   Ambler
+mark   104   EXC   84
+student   323   Lewis
+student   324   Joshua
+student   325   Alcock
+student   326   Appleby
+student   327   Annear
+student   328   Ellis
+mark   180   BIO1   41
+student   329   Kai
+mark   71   ABS   84
+mark   220   TTS   74
+mark   235   RTN   52
+student   330   Alligood
+student   331   Bradley
+mark   248   INF2D   88
+student   332   Deasia
+student   333   Dayana
+student   334   Allport
+student   335   Allan
+student   336   Allread
+student   337   Abbs
+student   338   Jay
+student   339   Abramson
+student   340   Mohammad
+mark   193   ADS   83
+mark   32   DMR   85
+student   341   Reece
+mark   56   SLIP   79
+mark   10   ADBS   55
+mark   36   TTS   72
+student   342   Arendale
+student   343   Albro
+student   344   Liam
+student   345   Juliet
+mark   259   EXC   40
+student   346   Kamryn
+mark   65   INF2D   72
+mark   131   ASR   46
+mark   261   CCN   74
+student   347   Alliston
+student   348   Kyle
+mark   209   INF2D   86
+mark   338   NIP   52
+student   349   Andrus
+mark   284   RTN   84
+student   350   Finley
+student   351   Albin
+student   352   Joshua
+student   353   Applin
+mark   30   INF2D   86
+mark   144   DAPA   65
+mark   209   CCN   52
+student   354   Matthew
+student   355   Adey
+mark   354   DAPA   75
+mark   190   CT   61
+mark   21   AV   90
+mark   152   AGTA   60
+mark   235   ANLP   55
+student   356   Allday
+student   357   Allison
+mark   110   IRR   71
+student   358   Alcott
+student   359   Angwin
+mark   336   IJP   47
+mark   353   IJP   44
+mark   70   PPLS   91
+student   360   Agers
+mark   308   INF1-CG   59
+mark   138   COPT   46
+student   361   Apps
+student   362   Kaley
+student   363   Delaney
+mark   341   PPLS   62
+student   364   Acton
+mark   102   DAPA   94
+student   365   Alsop
+mark   225   ADS   68
+student   366   Acton
+mark   351   DISS   94
+student   367   Abrams
+student   368   Kaela
+mark   291   COPT   57
+student   369   Allee
+mark   188   AV   59
+mark   14   ABS   45
+mark   138   INF1-CG   63
+mark   247   IJP   51
+mark   34   TDD   62
+mark   352   NIP   75
+student   370   Anger
+student   371   Ager
+mark   179   IJP   50
+student   372   Andrews
+student   373   Andros
+student   374   Appleberry
+student   375   Archdeacon
+mark   106   INF2D   50
+mark   162   INF2D   82
+mark   260   BIO2   96
+student   376   Leon
+mark   362   TDD   82
+mark   220   DMR   66
+student   377   Corinne
+student   378   Ackers
+student   379   Allsup
+mark   127   DAPA   72
+mark   208   HCI   61
+student   380   Leo
+student   381   Akin
+student   382   Addams
+mark   362   BIO2   100
+mark   360   TDD   69
+mark   359   ABS   44
+student   383   Aldrich
+student   384   Basil
+mark   267   COC   95
+student   385   Braden
+mark   139   AGTA   75
+student   386   Abbitt
+mark   101   COPT   71
+mark   72   SLIP   41
+student   387   Anstey
+mark   312   AV   47
+student   388   Anstead
+student   389   Aney
+student   390   Alfred
+mark   186   COPT   83
+student   391   Dasia
+student   392   Acors
+mark   380   TTS   77
+mark   311   TTS   62
+student   393   Leon
+mark   192   PM   72
+student   394   Agar
+student   395   Arlington
+student   396   Amason
+mark   35   BIO1   82
+student   397   Isaac
+student   398   Ady
+mark   143   TTS   65
+mark   53   INF1-CG   86
+student   399   Addis
+mark   200   TTS   100
+student   400   Andrew
+student   401   Algood
+student   402   Cristina
+mark   126   EXC   59
+student   403   Kaiya
+mark   243   INF1-CG   72
+mark   21   NIP   80
+student   404   Able
+student   405   Annable
+student   406   Finley
+student   407   Tyler
+student   408   Barrett
+student   409   Appling
+mark   145   CT   57
+mark   259   NIP   87
+student   410   Liam
+student   411   Joshua
+mark   396   IAML   58
+student   412   Appleyard
+student   413   Andros
+mark   374   AV   63
+student   414   Anable
+student   415   Deasia
+student   416   Afton
+mark   98   DISS   54
+mark   147   DAPA   85
+student   417   Danielle
+student   418   Abbett
+mark   19   ADS   80
+mark   193   INF2D   98
+student   419   Finlay
+mark   171   BIO1   40
+mark   231   AGTA   92
+student   420   Taylor
+mark   387   BIO2   93
+mark   42   AV   71
+student   421   Akers
+mark   311   IAML   98
+student   422   Acuff
+student   423   Alvey
+mark   37   DISS   48
+student   424   Agate
+student   425   Allie
+mark   114   COPT   44
+student   426   Annas
+mark   87   ANLP   68
+student   427   Baird
+student   428   Sean
+student   429   Arden
+student   430   Bevis
+student   431   Acock
+student   432   Harvey
+mark   82   NIP   69
+student   433   Arbon
+student   434   Albany
+student   435   Abney
+student   436   Ammon
+mark   318   RTN   41
+mark   92   COPT   91
+mark   332   ANLP   44
+mark   120   BIO1   65
+mark   85   ANLP   97
+mark   303   ASR   68
+student   437   Applewhite
+student   438   Akey
+mark   282   COPT   45
+mark   170   PPLS   64
+mark   155   HCI   41
+mark   105   AV   85
+mark   29   NIP   63
+mark   407   TDD   98
+mark   344   ES   54
+student   439   Andros
+mark   426   IRR   61
+student   440   Akerley
+student   441   Ackerman
+student   442   Ackerman
+student   443   Ansted
+student   444   Allender
+student   445   Alridge
+student   446   Courtney
+mark   313   IRP   79
+mark   297   IRP   82
+mark   3   AV   75
+student   447   Arber
+student   448   Apple
+student   449   Adkins
+student   450   Leo
+mark   131   COC   75
+mark   303   BIO2   77
+student   451   Sam
+mark   398   COC   86
+student   452   Damaris
+student   453   Addison
+student   454   Abbe
+student   455   Angwin
+student   456   Ackers
+student   457   Aley
+mark   157   HCI   64
+mark   200   IJP   99
+mark   225   DISS   84
+student   458   Akerley
+student   459   Antell
+student   460   Amor
+student   461   Alltop
+student   462   Leon
+mark   214   BIO2   81
+mark   241   INF2D   51
+mark   295   IRR   93
+mark   197   ADBS   57
+student   463   Deanna
+student   464   Albert
+student   465   Ake
+mark   326   ADBS   61
+student   466   Ellis
+student   467   Ancell
+mark   180   DMR   44
+student   468   Ryan
+student   469   Alcott
+mark   281   HCI   95
+mark   272   PM   78
+mark   401   INF2D   91
+student   470   Aldous
+mark   151   TTS   64
+mark   420   PM   100
+student   471   Adey
+student   472   Appleberry
+student   473   Appling
+student   474   Finlay
+mark   273   AV   90
+student   475   Alden
+mark   246   ABS   66
+student   476   Applewhite
+mark   258   ANLP   75
+student   477   Brandan
+mark   232   DMR   57
+mark   260   ES   87
+student   478   Acey
+student   479   Allen
+mark   426   TTS   66
+student   480   Amason
+student   481   Alworth
+student   482   Abbs
+mark   431   PPLS   50
+mark   75   IAML   61
+mark   248   TDD   73
+mark   161   EXC   42
+mark   180   TDD   95
+mark   160   INF2D   75
+student   483   Alwood
+mark   481   INF1-CG   74
+mark   308   COC   64
+student   484   Aduddell
+mark   232   IJP   55
+mark   6   INF1-CG   77
+student   485   Alwin
+mark   273   AGTA   78
+student   486   Agate
+student   487   Alston
+mark   227   CCN   44
+mark   258   NIP   79
+mark   99   TDD   63
+student   488   Allsbrook
+student   489   Appley
+student   490   Albin
+student   491   Acker
+student   492   Alderman
+mark   428   DAPA   52
+student   493   Antell
+student   494   Ethan
+student   495   Ryan
+mark   131   ANLP   74
+mark   488   ASR   55
+mark   416   INF1-CG   94
+mark   374   IAML   60
+student   496   Corinne
+student   497   Alsobrook
+student   498   Julianna
+mark   203   AV   53
+student   499   Ailey
+mark   177   BIO2   60
+student   500   Abrahams
+student   501   Argent
+student   502   Annear
+student   503   Amesbury
+mark   222   PM   89
+mark   442   BIO1   80
+mark   116   CT   52
+student   504   Allsup
+mark   223   COC   99
+student   505   Elliot
+mark   202   EXC   53
+mark   148   NIP   64
+student   506   Dana
+student   507   Appleberry
+student   508   Anne
+student   509   Claudia
+mark   310   SLIP   51
+student   510   Ackerly
+student   511   Anable
+mark   450   ADS   89
+student   512   Ammon
+mark   254   AV   66
+student   513   Alcock
+student   514   Alltop
+student   515   Archer
+mark   353   ASR   75
+student   516   Lewis
+mark   273   AR   99
+student   517   Anguish
+student   518   Alvey
+student   519   Aldrich
+student   520   Allison
+student   521   Cora
+mark   17   TDD   76
+mark   85   TDD   54
+student   522   Leo
+mark   440   INF1-CG   95
+student   523   Allyn
+student   524   Blair
+mark   35   DISS   43
+student   525   Amor
+student   526   Kamryn
+mark   393   TTS   74
+mark   46   TDD   42
+mark   182   HCI   85
+mark   199   DMR   63
+mark   191   TTS   55
+student   527   Kyle
+mark   350   ABS   42
+mark   504   IJP   98
+student   528   Appleberry
+student   529   Ansell
+mark   337   DAPA   88
+student   530   Antrobus
+student   531   Jamie
+mark   141   ANLP   100
+mark   2   EXC   94
+mark   450   ES   40
+mark   18   DAPA   97
+student   532   Allender
+student   533   Angley
+mark   411   AR   77
+student   534   Adrian
+mark   508   IRR   98
+mark   378   BIO2   51
+mark   372   AR   59
+student   535   Acton
+student   536   Jonathan
+student   537   Ethan
+student   538   Addicott
+student   539   Thomas
+student   540   Ambrose
+mark   64   INF1-CG   87
+mark   449   NIP   98
+student   541   Albright
+mark   127   BIO2   100
+mark   352   EXC   78
+student   542   Baird
+student   543   Alsip
+mark   210   RTN   68
+mark   204   ABS   66
+mark   342   IRR   40
+mark   85   INF2D   70
+student   544   Tyler
+mark   10   IJP   68
+student   545   Andrews
+mark   145   ADS   43
+mark   178   TTS   46
+mark   450   INF2D   87
+student   546   Allen
+student   547   Dasia
+mark   334   DISS   90
+mark   196   AGTA   94
+mark   236   IJP   58
+mark   363   INF1-CG   69
+mark   303   PM   57
+mark   278   HCI   73
+student   548   Braden
+student   549   Allam
+mark   494   AR   43
+mark   159   AGTA   92
+student   550   Addison
+student   551   Ryan
+student   552   Braden
+mark   487   ABS   66
+mark   517   NIP   99
+student   553   Bernard
+mark   527   TDD   99
+mark   12   ABS   83
+student   554   Angley
+mark   222   NIP   81
+mark   525   BIO1   97
+student   555   Samuel
+student   556   Acre
+student   557   Abbe
+student   558   Elliot
+student   559   Joe
+student   560   Daisy
+mark   1   RTN   67
+mark   280   IRR   84
+student   561   John
+mark   136   IJP   75
+student   562   Addis
+mark   168   AGTA   58
+mark   259   COPT   77
+student   563   Alling
+mark   29   INF2D   62
+student   564   Ainsworth
+student   565   Harvey
+student   566   Applebee
+mark   119   PM   72
+student   567   Arling
+student   568   Allred
+student   569   Aliff
+student   570   Basil
+mark   126   TTS   65
+student   571   Alcock
+mark   56   ASR   47
+mark   555   IJP   40
+mark   145   HCI   74
+student   572   Allday
+mark   305   BIO2   65
+mark   438   ES   45
+mark   343   IRR   42
+mark   51   COPT   85
+student   573   Abbot
+student   574   Louis
+mark   478   RTN   93
+student   575   Angley
+mark   40   IJP   43
+student   576   Acuff
+student   577   Annis
+student   578   Kyle
+student   579   Anstead
+mark   186   BIO1   85
+mark   76   ASR   62
+mark   568   DMR   59
+mark   130   DISS   79
+student   580   Finley
+student   581   Cynthia
+student   582   Allard
+student   583   Kacie
+student   584   Arendale
+mark   578   EXC   87
+mark   123   DISS   54
+student   585   Andrus
+student   586   Appleberry
+student   587   Finley
+mark   82   CCN   92
+student   588   Anthony
+student   589   Barclay
+mark   516   CCN   95
+mark   146   ES   88
+mark   172   EXC   57
+mark   576   AR   76
+mark   352   AGTA   75
+student   590   Afton
+student   591   Almond
+student   592   Dominic
+mark   543   SLIP   89
+student   593   Damaris
+student   594   Barry
+student   595   Allford
+student   596   Dakota
+student   597   Ainslie
+mark   547   ADS   58
+mark   278   INF2D   51
+mark   402   EXC   88
+mark   527   AGTA   44
+mark   290   HCI   54
+mark   433   DAPA   49
+student   598   Kailey
+student   599   Barclay
+mark   327   IRP   70
+student   600   Antley
+student   601   Allard
+student   602   Logan
+student   603   Cora
+mark   270   RTN   91
+student   604   Ackerley
+student   605   Basil
+student   606   Anchors
+student   607   Anderson
+mark   509   SLIP   84
+student   608   Amis
+mark   495   TDD   54
+mark   378   PM   77
+student   609   Alvin
+mark   124   INF1-CG   80
+student   610   Allenson
+mark   611   ES   51
+mark   258   IJP   87
+mark   180   TTS   50
+mark   450   IAML   94
+mark   485   SLIP   74
+mark   451   DISS   67
+student   611   Kaila
+mark   406   AGTA   70
+mark   587   IAML   57
+student   612   Jacob
+student   613   Denise
+student   614   Appley
+mark   98   TTS   97
+student   615   Alvis
+student   616   Allman
+mark   324   IJP   83
+mark   509   DMR   97
+mark   13   TTS   84
+mark   435   AGTA   88
+student   617   Arendale
+student   618   Daphne
+student   619   William
+student   620   Andros
+student   621   Allston
+mark   612   COC   95
+student   622   Lewis
+mark   338   HCI   61
+mark   529   COC   62
+mark   231   AR   40
+mark   424   DMR   86
+mark   544   CCN   47
+student   623   Barnaby
+student   624   Allums
+student   625   Damaris
+student   626   Kaelyn
+student   627   Acklin
+student   628   Samuel
+student   629   Alward
+mark   30   TDD   56
+mark   630   IJP   96
+student   630   Daisy
+mark   162   AR   65
+student   631   Adgate
+mark   616   SLIP   79
+mark   195   AV   70
+student   632   Anselm
+student   633   Joseph
+mark   303   HCI   46
+mark   452   AGTA   74
+mark   328   IAML   61
+mark   270   ADS   58
+mark   102   RTN   88
+mark   527   COPT   60
+student   634   Abbs
+student   635   Benedict
+mark   230   AR   69
+mark   50   AGTA   66
+student   636   Alvord
+student   637   Archey
+mark   606   HCI   75
+student   638   Ackers
+mark   6   TDD   53
+mark   327   DMR   85
+mark   452   INF1-CG   97
+mark   573   PPLS   98
+student   639   Anstead
+mark   65   ABS   78
+student   640   Baron
+mark   195   HCI   86
+student   641   Angel
+student   642   Delaney
+mark   136   ANLP   51
+student   643   Colleen
+mark   168   AV   51
+mark   503   TTS   77
+mark   642   EXC   41
+student   644   Luca
+mark   507   DAPA   40
+student   645   Justice
+student   646   Amos
+mark   466   COC   80
+mark   374   SLIP   74
+mark   293   TTS   65
+mark   471   ASR   53
+student   647   Adderly
+student   648   Ager
+mark   103   COC   84
+student   649   Adgate
+mark   649   DAPA   84
+mark   396   ADBS   40
+mark   306   NIP   92
+student   650   Kailyn
+student   651   Joel
+mark   331   ES   65
+mark   298   DMR   90
+mark   386   PPLS   59
+student   652   Adkins
+mark   123   ABS   88
+student   653   Kacie
+mark   154   BIO2   51
+student   654   Abdon
+mark   434   DMR   94
+mark   307   NIP   86
+student   655   Arford
+student   656   Reece
+mark   122   ES   99
+student   657   Amis
+student   658   Alltop
+student   659   Allport
+mark   23   AR   61
+mark   627   AGTA   84
+mark   238   AR   40
+student   660   Ady
+student   661   Ammon
+mark   93   AR   71
+student   662   Allsopp
+mark   539   COC   50
+student   663   Alton
+mark   251   ADS   48
+student   664   Allinson
+student   665   Amber
+student   666   Ackerman
+student   667   Antil
+student   668   Ancell
+student   669   Sebastian
+mark   146   ASR   69
+student   670   Albro
+student   671   Allis
+mark   400   BIO2   71
+student   672   Ailstock
+student   673   Cora
+student   674   Abbott
+mark   576   INF1-CG   42
+student   675   Baird
+mark   395   SLIP   89
+student   676   Kaitlin
+student   677   Allison
+student   678   Danielle
+student   679   Angwin
+mark   467   ADBS   74
+mark   554   ES   51
+student   680   Allnutt
+student   681   All
+student   682   Ager
+student   683   Annis
+student   684   Anderson
+mark   424   INF1-CG   83
+student   685   Allcorn
+mark   146   PPLS   44
+student   686   Acomb
+mark   171   DMR   73
+mark   551   CT   47
+student   687   Addison
+mark   540   BIO1   44
+mark   234   NIP   89
+student   688   Almond
+student   689   Addicott
+student   690   Apling
+student   691   Alleyne
+student   692   Alsop
+student   693   Akers
+mark   627   TTS   100
+student   694   Jordan
+mark   366   AR   47
+student   695   Peter
+student   696   Allender
+student   697   Basil
+student   698   Acock
+student   699   Alridge
+mark   81   TDD   70
+student   700   Antle
+student   701   Aguillard
+student   702   Jamie
+mark   389   EXC   60
+mark   136   CCN   48
+student   703   Alsobrook
+student   704   Ackerly
+mark   533   ANLP   54
+student   705   Allport
+mark   342   ASR   60
+mark   526   DAPA   71
+mark   335   AV   94
+mark   601   AGTA   87
+student   706   Abney
+student   707   Bernard
+student   708   Alberts
+student   709   Julianna
+student   710   Apland
+mark   191   RTN   56
+mark   158   EXC   75
+student   711   Finlay
+student   712   Andros
+student   713   Kalyn
+mark   250   DMR   87
+student   714   Arden
+mark   470   DMR   100
+student   715   Louis
+mark   198   DMR   96
+student   716   Allton
+student   717   Acker
+mark   27   IRP   93
+mark   293   COC   46
+student   718   Allender
+mark   709   COC   59
+student   719   Bevis
+student   720   Allsup
+student   721   Arkwright
+student   722   Alway
+student   723   Alligood
+student   724   Allread
+mark   611   CCN   64
+mark   488   CT   79
+mark   456   AGTA   78
+student   725   Alleyne
+mark   97   DMR   50
+mark   719   ES   80
+student   726   Anker
+student   727   Agate
+student   728   Ethan
+student   729   Kalyn
+mark   339   ES   58
+mark   109   INF1-CG   70
+student   730   Jamie
+mark   479   COC   43
+mark   596   IRP   45
+student   731   Ally
+mark   235   TTS   71
+student   732   Josh
+student   733   Elliot
+mark   536   AR   90
+student   734   Allis
+student   735   Kian
+student   736   Ackerly
+mark   347   BIO2   59
+student   737   Abby
+mark   222   ADBS   47
+mark   43   IAML   96
+student   738   Akin
+student   739   Arington
+mark   300   CT   86
+student   740   Joyce
+mark   173   ADBS   61
+student   741   Alvord
+student   742   Antill
+student   743   Allgood
+mark   212   AR   52
+student   744   Allanson
+student   745   Aldrich
+mark   389   INF1-CG   63
+student   746   Boris
+mark   395   IRR   73
+student   747   Lucas
+mark   578   DISS   41
+mark   612   ES   82
+mark   239   ANLP   93
+mark   68   IJP   77
+mark   665   IRP   75
+mark   278   INF1-CG   97
+mark   255   PPLS   85
+student   748   Adey
+mark   196   BIO1   87
+mark   512   AV   66
+mark   469   ADBS   67
+mark   571   EXC   59
+mark   79   BIO1   79
+student   749   Allred
+mark   142   ABS   58
+student   750   Spencer
+mark   277   DMR   51
+student   751   Akin
+mark   510   ABS   53
+student   752   Allerton
+mark   525   AV   67
+student   753   Nicholas
+student   754   Ansell
+mark   699   AGTA   68
+student   755   Adkins
+mark   207   DAPA   81
+mark   243   AV   62
+mark   139   ANLP   74
+student   756   Amerson
+student   757   Angevine
+student   758   Addington
+student   759   Kaitlynn
+mark   235   INF2D   75
+mark   693   TDD   85
+student   760   Ethan
+student   761   Barry
+mark   291   TTS   52
+student   762   Amor
+mark   523   COPT   91
+mark   563   CCN   63
+student   763   Alkins
+mark   484   INF2D   67
+student   764   Taylor
+student   765   Arkwright
+student   766   Amesbury
+student   767   Akehurst
+student   768   Daniella
+student   769   Allison
+mark   750   DAPA   41
+mark   425   IJP   94
+student   770   Addis
+student   771   Basil
+student   772   Amey
+mark   117   IRR   56
+mark   740   IJP   68
+mark   762   BIO1   40
+mark   646   COPT   58
+student   773   Acre
+mark   120   TDD   81
+student   774   Arendall
+student   775   Amerson
+mark   400   IRP   84
+mark   625   TTS   54
+student   776   Anderton
+student   777   Alderson
+mark   717   AR   68
+student   778   Albin
+student   779   Antley
+mark   107   BIO1   98
+mark   538   COC   78
+student   780   Acreman
+student   781   Argent
+mark   777   ASR   72
+student   782   Alderton
+student   783   Amos
+student   784   Benton
+mark   691   PPLS   72
+mark   662   BIO1   99
+mark   368   INF1-CG   87
+mark   183   AGTA   58
+student   785   Allman
+mark   289   ASR   87
+mark   6   INF2D   55
+mark   446   SLIP   69
+student   786   Bradley
+mark   779   IAML   98
+mark   661   BIO1   89
+mark   300   AR   49
+mark   435   ABS   65
+student   787   Anselm
+student   788   Arington
+mark   368   IRR   45
+mark   490   AGTA   85
+student   789   Allam
+student   790   Darlene
+mark   426   AGTA   49
+mark   283   PPLS   76
+student   791   Alkins
+mark   473   IJP   92
+student   792   Abney
+student   793   Allender
+mark   426   ES   93
+mark   736   PPLS   52
+student   794   Thomas
+mark   708   BIO2   56
+mark   172   ASR   83
+student   795   Arling
+mark   253   PM   60
+mark   318   IRP   66
+mark   721   BIO1   76
+mark   132   BIO2   66
+student   796   Kaela
+mark   506   SLIP   50
+mark   693   INF1-CG   82
+student   797   Aldis
+student   798   Brandan
+student   799   Kaitlyn
+mark   730   IJP   52
+mark   312   CCN   58
+student   800   Alsbury
+mark   568   EXC   58
+mark   76   BIO1   100
+mark   600   DMR   67
+mark   308   IRP   82
+mark   485   BIO2   48
+mark   272   COPT   100
+student   801   Thomas
+student   802   Anable
+student   803   Agate
+mark   438   SLIP   93
+student   804   Brandan
+student   805   Allanson
+student   806   Ailstock
+mark   304   IJP   88
+student   807   Juliet
+student   808   Allie
+mark   408   COC   43
+mark   146   ABS   65
+student   809   Blake
+mark   413   TDD   61
+student   810   Andrus
+mark   598   PM   80
+mark   436   ADBS   63
+mark   185   RTN   40
+mark   490   SLIP   98
+mark   751   HCI   80
+mark   596   TTS   79
+student   811   Dylan
+mark   200   IAML   92
+mark   495   IRP   74
+student   812   Kaleigh
+student   813   Kieran
+student   814   Acre
+mark   92   IRR   62
+student   815   Ainslie
+student   816   Julissa
+mark   609   AR   41
+mark   354   BIO2   56
+mark   464   CT   45
+student   817   Angle
+student   818   Acey
+student   819   Antell
+student   820   Ackroyd
+student   821   Acre
+student   822   Applebee
+student   823   Deja
+mark   560   BIO1   87
+student   824   Antell
+mark   698   COPT   58
+mark   714   INF2D   83
+mark   742   PM   48
+mark   387   ES   79
+mark   160   COC   91
+student   825   Age
+mark   444   ANLP   60
+student   826   Applegate
+student   827   Isaac
+student   828   Anderton
+student   829   Allis
+student   830   Aleck
+student   831   Amory
+mark   298   TDD   83
+mark   285   INF1-CG   96
+mark   217   HCI   97
+mark   515   ADS   62
+student   832   Ackley
+mark   508   SLIP   94
+student   833   Dakota
+mark   205   HCI   96
+student   834   Kaila
+student   835   Alborn
+student   836   Appley
+student   837   Cristal
+student   838   Allnutt
+mark   45   CT   87
+mark   722   TTS   73
+mark   494   CT   41
+mark   131   INF2D   97
+student   839   Acuff
+mark   152   IRP   95
+mark   13   PM   61
+mark   523   IRP   51
+mark   429   ADS   89
+student   840   Mohammad
+student   841   Ansley
+student   842   Arford
+student   843   Ackers
+mark   553   COPT   42
+student   844   Acton
+student   845   Ansell
+student   846   Ace
+mark   694   CT   65
+student   847   Adwell
+student   848   Mohammad
+mark   114   ADS   91
+student   849   Ady
+student   850   Alvey
+mark   669   INF2D   66
+mark   580   DMR   79
+student   851   Abbs
+mark   245   AGTA   45
+student   852   Ackley
+mark   130   IRR   100
+student   853   Kaleigh
+mark   29   ASR   54
+student   854   Almy
+mark   485   EXC   59
+mark   505   INF1-CG   69
+mark   528   BIO1   83
+mark   147   TDD   56
+student   855   Ake
+mark   802   IAML   89
+mark   599   DMR   76
+mark   338   EXC   94
+mark   189   NIP   54
+student   856   Finley
+student   857   Deanna
+mark   218   ANLP   72
+mark   469   TDD   67
+mark   372   TTS   56
+student   858   Anstey
+student   859   Arden
+mark   19   PPLS   99
+student   860   Mohammad
+student   861   Agate
+student   862   Addison
+student   863   Benedict
+mark   440   TTS   54
+student   864   Aduddell
+mark   119   NIP   99
+student   865   Alsup
+mark   760   ADBS   54
+student   866   Aliff
+student   867   Abdon
+mark   578   ASR   64
+mark   45   CCN   60
+mark   250   COC   40
+student   868   Allred
+mark   11   BIO2   99
+mark   603   TDD   79
+mark   39   DMR   61
+student   869   Anable
+mark   118   DISS   63
+student   870   Louis
+student   871   Ackroyd
+mark   448   COC   85
+student   872   Allston
+student   873   Amber
+mark   533   DISS   81
+student   874   Ainsworth
+student   875   Kyle
+student   876   Liam
+mark   39   ADBS   56
+mark   568   COPT   85
+student   877   Jordan
+mark   781   AGTA   68
+student   878   Baron
+student   879   Alan
+mark   308   DAPA   82
+mark   535   AV   45
+mark   734   PM   100
+student   880   Argent
+mark   230   ADS   77
+mark   828   COC   67
+mark   707   TTS   82
+student   881   Addy
+student   882   Apps
+mark   806   PPLS   45
+student   883   Joel
+student   884   Julie
+student   885   Arden
+mark   661   DMR   60
+student   886   Kyle
+mark   81   PPLS   54
+student   887   Daniella
+mark   565   CT   49
+student   888   Allee
+student   889   Aborn
+mark   661   TTS   61
+student   890   Allday
+mark   83   RTN   87
+student   891   Aborn
+student   892   Aliff
+mark   197   COC   83
+student   893   Alderson
+mark   370   HCI   65
+mark   568   AGTA   54
+mark   788   NIP   55
+mark   333   IRP   56
+student   894   Ansley
+student   895   Corinne
+mark   595   ASR   46
+mark   112   EXC   82
+mark   193   ABS   74
+mark   561   PPLS   50
+mark   621   CCN   92
+mark   678   IRP   57
+student   896   Acres
+mark   872   NIP   91
+mark   322   ADS   49
+mark   124   ANLP   68
+student   897   Alligood
+mark   888   TDD   67
+student   898   Ailstock
+student   899   Abbott
+mark   810   RTN   97
+student   900   Allgood
+mark   724   AR   78
+student   901   Danielle
+student   902   Ager
+student   903   Joyce
+student   904   Abbs
+student   905   Appleby
+mark   640   EXC   47
+mark   140   ABS   98
+mark   701   IJP   66
+mark   586   CCN   44
+mark   779   ABS   62
+student   906   Aldridge
+student   907   Deanna
+student   908   Amor
+mark   481   NIP   63
+student   909   Juliette
+mark   255   ASR   74
+mark   707   AV   54
+mark   125   TTS   75
+student   910   Arledge
+mark   295   TTS   53
+student   911   Abbs
+student   912   Daphne
+student   913   Julianna
+student   914   Arey
+student   915   Akes
+student   916   Andros
+mark   682   IRR   73
+mark   872   DAPA   93
+student   917   Kailyn
+student   918   Bradley
+student   919   Arledge
+mark   796   IAML   65
+student   920   Aliff
+student   921   Appley
+student   922   Louis
+student   923   Anthony
+mark   146   ADS   50
+mark   177   HCI   97
+mark   123   NIP   59
+mark   595   RTN   58
+student   924   Jacob
+mark   46   TTS   98
+student   925   Dasia
+student   926   Alvin
+student   927   Alleyne
+mark   342   PPLS   86
+student   928   Darby
+student   929   Allie
+student   930   Allston
+student   931   Kailyn
+mark   733   PPLS   79
+student   932   Anstead
+student   933   Kyle
+mark   57   IRP   92
+mark   72   AR   71
+mark   341   CT   78
+mark   226   ADBS   76
+student   934   Alton
+student   935   Amos
+mark   465   ES   48
+mark   507   DISS   57
+mark   871   IRP   83
+mark   568   ADBS   82
+student   936   Abbey
+student   937   Ackley
+student   938   Allnutt
+student   939   Apps
+mark   197   NIP   57
+student   940   Allgood
+student   941   Akin
+mark   296   INF1-CG   65
+mark   711   INF2D   62
+student   942   Amison
+mark   484   AR   72
+student   943   Abrams
+student   944   Aley
+mark   643   BIO1   46
+mark   918   ABS   71
+mark   563   BIO1   61
+student   945   Kai
+mark   399   CT   61
+mark   796   PM   55
+mark   729   PM   50
+mark   799   ES   52
+mark   520   INF2D   60
+mark   82   TTS   78
+mark   225   CCN   41
+student   946   Allenson
+mark   548   HCI   75
+mark   157   TTS   60
+student   947   Arch
+student   948   Allnutt
+student   949   Agers
+student   950   Alger
+mark   666   COPT   65
+student   951   Alderson
+mark   839   ES   91
+mark   656   TTS   82
+student   952   Alles
+mark   151   COPT   63
+mark   99   ES   64
+student   953   Agard
+mark   316   INF1-CG   64
+mark   862   IJP   68
+mark   888   IRP   78
+mark   922   EXC   53
+student   954   Blake
+student   955   Arden
+mark   870   TTS   55
+mark   363   AGTA   86
+student   956   Mohammed
+mark   538   INF2D   51
+student   957   Baird
+student   958   Adley
+student   959   Addis
+mark   807   SLIP   65
+mark   584   DMR   46
+student   960   Ainsley
+mark   723   ANLP   46
+student   961   Allwood
+student   962   Allerton
+mark   164   INF2D   67
+mark   641   ADBS   66
+student   963   Allums
+mark   325   AGTA   91
+student   964   Nicholas
+student   965   Kacie
+student   966   Anctil
+mark   603   PPLS   81
+student   967   Allington
+mark   602   IRR   96
+student   968   Albury
+student   969   Addams
+student   970   Acors
+mark   789   IJP   87
+mark   817   ADS   55
+student   971   Alan
+mark   680   TTS   45
+student   972   Arledge
+mark   73   INF2D   70
+student   973   Alles
+student   974   Abramson
+student   975   Kaleigh
+mark   535   ES   100
+mark   67   SLIP   51
+student   976   Andry
+student   977   Brandan
+mark   515   BIO1   75
+student   978   Daphne
+mark   692   TTS   55
+student   979   Acomb
+mark   221   AGTA   55
+student   980   Arey
+student   981   Angle
+student   982   Andrews
+student   983   Juliana
+mark   26   CCN   73
+mark   961   PM   69
+student   984   Ackerman
+student   985   Kacie
+mark   470   IAML   49
+mark   155   CCN   70
+student   986   Aplin
+mark   442   ABS   79
+student   987   Jamie
+student   988   Abby
+mark   930   INF1-CG   97
+student   989   Alvis
+mark   71   BIO1   96
+student   990   Addison
+mark   732   ADS   50
+student   991   Archbold
+student   992   Barnaby
+mark   769   CT   88
+mark   60   DISS   66
+student   993   Deborah
+mark   136   TTS   68
+student   994   Bowen
+mark   974   DAPA   62
+student   995   Afton
+student   996   Allcorn
+student   997   Abby
+mark   682   ADS   80
+mark   120   AGTA   78
+student   998   Age
+student   999   Alridge
+student   1000   Daniella
+student   1001   Arledge
+mark   997   BIO1   91
+mark   791   IRP   75
+student   1002   Kaley
+mark   659   NIP   89
+mark   751   COC   87
+mark   682   SLIP   86
+mark   725   TDD   86
+student   1003   Courtney
+student   1004   Cynthia
+student   1005   Arden
+student   1006   Baird
+student   1007   Applin
+student   1008   Apsey
+mark   790   AR   60
+mark   535   DMR   88
+mark   315   SLIP   85
+mark   467   IAML   81
+student   1009   Arendall
+mark   48   TDD   73
+mark   497   NIP   83
+student   1010   Blake
+mark   595   AR   82
+student   1011   Allison
+student   1012   Addington

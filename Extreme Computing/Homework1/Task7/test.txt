@@ -1,0 +1,60 @@
+student   0   Barry
+student   1   Antil
+mark   1   DAPA   64
+mark   2   IAML   72
+mark   2   CCN   82
+mark   1   AR   82
+mark   2   COC   49
+mark   1   SLIP   40
+mark   1   BIO2   71
+student   2   Josh
+student   3   Andry
+mark   3   TTS   97
+mark   1   EXC   43
+mark   2   IJP   89
+mark   3   ES   98
+mark   1   AV   57
+student   4   Antle
+student   5   Dasia
+student   6   Ambrose
+student   7   Michael
+student   8   Sebastian
+student   9   Acock
+mark   0   COPT   100
+mark   0   ADS   46
+student   10   Annand
+student   11   Arkell
+student   12   Ackerman
+student   13   Ackley
+mark   13   AGTA   65
+student   14   Angleton
+student   15   Allerton
+mark   9   IRP   77
+student   16   Ackland
+student   17   Finley
+mark   2   AR   84
+mark   9   DMR   42
+student   18   Airington
+mark   13   IRP   77
+mark   18   ABS   60
+mark   4   TTS   51
+mark   4   IAML   77
+student   19   Juliet
+mark   13   PPLS   80
+mark   5   DISS   64
+student   20   Alltop
+student   21   Danna
+mark   14   AR   82
+mark   4   INF1-CG   93
+student   22   Aborn
+student   23   Anslow
+mark   14   BIO2   92
+mark   14   RTN   72
+student   24   Kaitlyn
+student   25   Arkell
+student   26   Mason
+student   27   Applewhite
+student   28   Harvey
+student   29   Adderly
+mark   6   EXC   84
+mark   21   PM   79

@@ -1,0 +1,2767 @@
+@charset "utf-8";
+
+.inner .header .nav li
+{
+	padding:5px 2px 5px 2px;
+}
+.inner .header .nav li a
+{
+	padding:0 12px;
+}
+
+.inner .header .nav li a i:before
+{
+	margin-right:-6px;
+}
+
+.inner .header .nav li a i
+{
+	*margin:0 -7px 0 5px;
+}
+
+#nav ul.last
+{
+	right:2px;
+}
+
+.thuimgContent
+{
+	padding-top:10px;
+}
+
+.thuimgContent .column_1,.thuimgContent .column_2,.thuimgContent .column_3
+{
+	float:left;
+	_display:inline;
+}
+
+.thuimgContent .column_1
+{
+	width:160px
+}
+
+.thuimgContent .column_2
+{
+	width:800px;
+	margin:0 0 0 40px;
+}
+
+.thuimgContent .column_3
+{
+	width:155px;
+}
+
+.thuimgContent .thuimg_cnt
+{
+	margin-bottom: 1.5em;
+    overflow: hidden;
+}
+
+.thuimgContent .thuimg_cnt img
+{
+	width:100%;
+}
+
+.content .mainContent .article
+{
+	width:585px;
+	margin-right:60px;
+	float:left;
+	_display:inline;
+	font-size:14px;
+	line-height:24px;
+	color:#444;
+}
+
+.content .mainContent .article p
+{
+	padding:0.75em 0;
+}
+
+.content .mainContent .article p:first-child
+{
+	padding-top:0;
+}
+
+.thuimgContent .dayList li
+{
+	float:left;
+	_display:inline;
+	margin-right:20px;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+.thuimgContent .dayList li a
+{
+	display:block;
+	color:#777;
+	width:58px;
+	height:58px;
+	border:1px solid #ddd;
+	transition:all .3s ease-in;
+}
+
+.thuimgContent .dayList li a span
+{
+	display:block;
+	font-size:24px;
+	line-height:28px;
+	padding-top:6px;
+}
+
+.thuimgContent .dayList li a:hover
+{
+	background:#EDEAF1;
+	color:#5C307D;
+	border-color:#EDEAF1;
+}
+
+.thuimgContent .dayList li.today
+{
+}
+.thuimgContent .dayList li.today a
+{
+	width:140px;
+	height:140px;
+	background:#5C307D;
+	color:#fff;
+	font-size:27px;
+	border:0;
+	*line-height:30px;
+}
+
+.thuimgContent .dayList li.today a span
+{
+	font-size:54px;
+	line-height:90px;
+	*margin-bottom:-10px;
+}
+
+.thuimgContent .dayList li.more 
+{
+	line-height:58px;
+	font-size:14px;
+}
+
+.thuimgContent .dayList li.more a
+{
+	color:#5C307D;
+}
+
+.thuimgContent .dayList li.stat
+{
+	float:none;
+	display:block;
+	clear:both;
+	color:#999;
+	padding:40px 0 0;
+}
+
+.thuimgContent .dayList li.stat span
+{
+	display:block;
+	background:url(stat.gif)/*tpa=http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/images/stat.gif*/ no-repeat center center;
+	height:16px;
+	margin:5px 0; 
+}
+
+.thuimgContent .dayList li.stat i
+{
+	font-style:normal;
+}
+
+.contentNav
+{
+	border-bottom:1px solid #ddd;
+	margin-bottom:30px;
+}
+
+.contentNav .nav
+{
+	color:#999;
+	font-family:sans-serif
+}
+
+.contentNav .nav a
+{
+	color:#999;
+	font-size:12px;
+}
+
+.contentNav .nav a:hover
+{
+	color:#5c307d;
+}
+
+.contentNav h1
+{
+	font-size:28px;
+	color:#5c307d;
+	line-height:1.25em;
+	padding:0.4em 0 0.6em 0;
+}
+
+.contentNav h1.txtTitle
+{
+	color:#22132d;
+	font-size:24px;
+}
+
+.contentNav h1.noNav
+{
+	padding:0 0 1em 0;
+	font-size:24px;
+}
+
+
+.thuimgContent .yearlist .year
+{
+	background:#5C307D;
+	color:#fff;
+	padding:10px 17px 17px;
+}
+
+.thuimgContent .yearlist .year span
+{
+	color:#fff;
+	font-size:27px;
+	line-height:60px;
+}
+
+.thuimgContent .yearlist .year li
+{
+	float:left;
+	_display:inline;
+	margin:0;
+}
+
+.thuimgContent .yearlist .year a,.thuimgContent .yearlist .year em
+{
+	display:block;
+	color:#fff;
+	width:26px;
+	border:0;
+	line-height:26px;
+	height:26px;
+	font-size:14px;
+	font-style:normal;
+}
+
+.thuimgContent .yearlist .year em
+{
+	color:#aaa;
+}
+
+.thuimgContent .yearlist .year a:hover,.thuimgContent .yearlist .year a.current
+{
+	border-radius:13px;
+	background:#E8E0F5;
+	color:#5C307D;
+}
+
+.thuimgContent .yearlist li a  span
+{
+	font-size:14px;
+}
+
+
+.thuimgContent .thuimglist li
+{
+	width:50%;
+	float:left;
+	_display:inline;
+}
+
+.thuimgContent .thuimglist li div
+{
+	margin:0 15px 35px 15px;
+	position:relative;
+}
+
+.thuimgContent .thuimglist li img
+{
+	width:100%;
+}
+
+.thuimgContent .thuimglist li span
+{
+	position:absolute;
+	width:64px;
+	height:64px;
+	text-align:center;
+	right:10px;
+	top:-10px;
+	color:#fff;
+	background:#b2b2b2;
+	z-index:5;
+	font-size:12px;
+}
+
+.thuimgContent .thuimglist li span i
+{
+	display:block;
+	font-size:24px;
+	line-height:50px;
+	font-style:normal;
+	margin-bottom:-16px;
+}
+
+.thuimgContent .thuimglist li a
+{
+	color:#fff;
+	font-size:18px;
+	line-height:1.25em;
+}
+
+.thuimgContent .thuimglist li a *
+{
+	transition:all .3s ease-in;
+}
+
+
+.thuimgContent .thuimglist li a i
+{
+	position:absolute;
+	top:0;
+	bottom:0;
+	width:100%;
+	background:#2c153e;
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+
+
+.thuimgContent .thuimglist li strong
+{
+	position:absolute;
+	padding:1.5em;
+	width:65%;
+	opacity:0;
+	font-weight:normal;
+	filter:alpha(opacity=0);
+}
+
+.thuimgContent .thuimglist li a:hover  i
+{
+	opacity:0.6;
+	filter:alpha(opacity=60);
+}
+
+.thuimgContent .thuimglist li a:hover strong
+{
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+
+.commContent.thuimgContent
+{
+	border-top:0;
+}
+
+.commContent
+{
+	padding-top:40px;
+}
+
+
+.content .mainContent  .article.fullwidth
+{
+	margin-right:0;
+	width:100%;
+}
+
+.tline
+{
+	background:#5c307d;
+	height:2px;
+	overflow:hidden;
+	width:20px;
+}
+
+.authorlist li
+{
+	color:#777;
+	padding-bottom:24px;
+}
+
+.authorlist li span
+{
+	color:#7e4aa6;
+	font-weight:bold;
+	display:block;
+}
+
+
+.content .channeltopimg
+{
+	text-align:center;
+	background:#f3f3f3;
+	overflow:hidden;
+}
+
+.content .channelInfo
+{
+	position:absolute;
+	right:20px;
+	border-bottom:7px solid #ff9600;
+	color:#fff;
+	width:340px;
+	top:-250px;
+	z-index:1;
+	height:190px;
+	text-align:center;
+	padding:30px;
+	zoom:1;
+	overflow:hidden;
+}
+
+
+.content .channelInfo .nav
+{
+	font-family:sans-serif
+}
+
+.content .channelInfo .nav a
+{
+	color:#fff;
+	font-size:12px;
+}
+
+.content .channelInfo .nav a:hover
+{
+	color:#FC0;
+}
+
+.content .channelInfo i
+{
+	background:#5c307d;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	position:absolute;
+	z-index:-1;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	*height:999px;
+}
+
+.content .channelInfo h2
+{
+	font-size:30px;
+	line-height:1em;
+	border-bottom:1px solid #a793b5;
+	padding:0.2em 0 0.65em;
+}
+
+.content .channelInfo p
+{
+	font-size:14px;
+	line-height:1.5em;
+	padding-top:1.2em;
+}
+
+
+.content .mainContent .subChannelList li
+{
+	float:left;
+	_display:inline;
+	width:33.3%;
+	margin-bottom:30px;
+}
+
+.content .mainContent .subChannelList figure 
+{
+	background:#f6f6f6;
+	height:275px;
+	margin:0 15px;
+}
+
+.content .mainContent .subChannelList figure img
+{
+	width:100%;
+}
+
+.content .mainContent .subChannelList figure figcaption
+{
+	display:block;
+	padding:1.2em 30px 0 30px;
+}
+
+.content .mainContent .subChannelList figure figcaption a
+{
+	color:#22132d;
+	font-size:16px;
+	line-height:22px;
+	padding:0.3em 0 0.5em 0;
+	display:block;
+}
+
+.content .mainContent .subChannelList figure figcaption a:hover
+{
+	color:#4F608C;
+}
+
+.content .mainContent .subChannelList figure p
+{
+	color:#777;
+	padding:0 30px 0 30px;
+	font-size:12px;
+	line-height:20px;
+}
+
+
+.content .mainContent .multiChannel figure 
+{
+	height:	380px
+}
+
+
+.content .mainContent .subChannelList figure ul
+{
+	padding:0 20px;
+}
+
+
+.content .mainContent .subChannelList figure li
+{
+    float: left;
+	_display:inline;
+	line-height:18px;
+	font-size:12px;
+	width:50%;
+	margin:0;
+}
+
+.content .mainContent .subChannelList figure li a
+{
+	display:block;
+	border-bottom:1px solid #ddd;
+	padding:10px 0;
+	margin:0 10px;
+}
+
+.content .mainContent .subChannelList figure li a i
+{
+    float: right;
+	_display:inline;
+}
+
+
+.content .commContent .mainContent
+{
+	padding:0 5px;
+}
+
+.content .commContent .mainContent .contentNav
+{
+	margin-right:15px;
+	margin-left:15px;
+}
+
+
+.detailContent .column_1,.detailContent .column_2,.detailContent .column_3 {
+    float: left;
+	_display:inline;
+}
+
+.detailContent .column_1 {
+    width: 200px;
+}
+
+.detailContent .column_2 {
+    margin: 0 0 0 30px;
+    width: 770px;
+}
+
+.detailContent .leftNav
+{
+	border-left:12px solid #5c307d;
+	position:relative;
+	top:-34px;
+	left:-12px;
+	width:100%;
+}
+
+.detailContent .leftNav h3
+{
+	background:#5c307d;
+	color:#fff;
+	font-size:22px;
+	line-height:68px;
+	padding:0 22px;
+}
+
+
+.detailContent .leftNav .menuicon {
+	color: #fff;
+	float: right;
+	text-indent:0;
+	display:none;
+}
+
+.detailContent .leftNav li
+{
+	border-bottom:1px solid #ddd;
+	font-size:15px;
+	line-height:22px;
+	zoom:1;
+	position:relative;
+}
+
+.detailContent .leftNav ul
+{
+	border-top:1px solid #ddd;
+	margin-top:20px;
+	display:block;
+}
+
+.detailContent .leftNav li a
+{
+	color:#22132d;
+	display:block;
+	padding:1em 0 1em 22px;
+	margin-right:28px;
+	zoom:1;
+}
+
+.detailContent .leftNav li i
+{
+	position:absolute;
+	font-size:10px;
+	color:#5c307d;
+	border-left:1px solid #ddd;
+	padding:1.5em 4px;
+	*padding:2.1em 4px;
+	cursor:pointer;
+	top:0;
+	right:0;
+	bottom:0;
+}
+
+.detailContent .leftNav li i:hover,.detailContent .leftNav li i.current
+{
+	background:#f7f7f7;
+}
+
+.detailContent .leftNav li a:hover
+{
+	color:#4F608C;
+}
+
+.detailContent .leftNav li.current a
+{
+	position:relative;
+	border-left:4px solid #ff9600;
+	left:-4px;
+	color:#5c307d;
+}
+
+.detailContent .leftNav li.current ul
+{
+	display:block;
+}
+
+.detailContent .leftNav li ul
+{
+	margin:0;
+	border:0;
+	background:#f7f7f7;
+	position:relative;
+	border-left:4px solid #5c307d;
+	left:-4px;
+	width:100%;
+	display:none;
+}
+
+.detailContent .leftNav li ul li
+{
+	border-bottom:0;
+	border-top:1px solid #ddd;
+	font-size:12px;
+}
+
+.detailContent .leftNav li.current ul
+{
+	border-left:4px solid #ff9600;
+}
+
+.detailContent .leftNav li.current ul li a,.detailContent .leftNav li ul li a
+{
+	color:#22132d;
+	font-family:"Lucida Sans Unicode","Lucida Grande", Tahoma,Arial, Helvetica, sans-serif;
+	padding:11px 5px 11px 34px;
+	border:0;
+	position:static;
+	margin-right:0;
+	line-height:18px;
+}
+
+.detailContent .leftNav li ul li a:hover
+{
+	background:#f0f0f0;
+}
+
+.detailContent .leftNav li ul li.current a
+{
+	font-weight:bold;
+}
+
+.detailContent .contentNav
+{
+	padding-top:20px;
+}
+
+.detailContent .contentNav h1
+{
+	line-height:1em;
+	padding: 0.7em 0 0.7em;
+}
+
+
+.detailContent  .mainContent .article h2
+{
+	font-size:20px;
+	color:#666;
+	border-bottom:1px solid #ddd;
+	text-align:center;
+	padding-bottom:1.2em;
+	margin-bottom:1.2em;
+}
+
+.detailContent .mainContent .article
+{
+	margin-right: 30px;
+	width:550px;
+}
+
+.detailContent .column_3
+{
+	width:190px;
+}
+
+
+.detailContent .president
+{
+	background:#f2f2f2;
+	text-align:center;
+}
+.detailContent .president .portrait
+{
+	width:100%;
+}
+.detailContent .president img
+{
+	margin-bottom:15px;
+}
+
+.detailContent .mainContent .tImg 
+{
+	position:relative;
+	margin-bottom:40px;
+}
+
+.detailContent .mainContent .tImg #Bimg
+{
+	height:320px;
+}
+
+
+.detailContent .mainContent .tPic 
+{
+	margin-bottom:40px;
+
+}
+
+.detailContent .mainContent .tPic #Bimg
+{
+	height:460px;
+}
+
+.detailContent .mainContent .map
+{
+	margin-bottom:40px;
+}
+.detailContent .mainContent .tPic .PicNavWrap
+{
+	background:#22132d;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap a
+{
+	font-size:40px;
+	color:#fff;
+	margin:15px -14px 0 -10px;
+	line-height:54px;
+	cursor:pointer;
+	overflow:hidden;
+	display:none;
+	*margin:15px 0px 0 10px;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap a.on
+{
+	display:block;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap a.right
+{
+	margin:15px -10px 0 -14px;
+	*margin:15px 0px 0 0;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap a:hover
+{
+	color:#999;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap  section
+{
+	overflow:hidden;
+	position:relative;
+	margin:0 35px;
+	height:86px;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap .PicNav
+{
+	left:0;
+	top:0;
+}
+
+.detailContent .mainContent .tPic .PicNavWrap li
+{
+	float:left;
+	_display:inline;
+	padding:15px 5px;
+	width:90px;
+	cursor:pointer;
+}
+
+
+.detailContent .mainContent .tPic .PicNavWrap li img
+{
+	width:100%;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
+.detailContent .mainContent .tPic .PicNavWrap li.current img
+{
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+
+.detailContent .mainContent .tPic .PicIntro
+{
+	background:#eee;
+	padding:2em 3em 3.5em 3em;
+	font-size:14px;
+	line-height:1.8em;
+}
+
+.detailContent .mainContent .tPic .PicIntro h3
+{
+	font-size:18px;
+	border-bottom:1px solid #ddd;
+	color:#5c307d;
+	padding:0 0 1em 0;
+	margin-bottom:1em;
+}
+
+.detailContent .mainContent .tPic .PicIntro li
+{
+	display:none;
+}
+
+.detailContent .mainContent #Bimg
+{
+	height:460px;
+}
+
+.detailContent .mainContent #Bimg img
+{
+	width:100%;
+	*width:auto;
+}
+
+.detailContent .mainContent #Bimg li
+{
+	float:left;
+	_display:inline;
+	zoom:1;
+}
+
+
+.detailContent .mainContent .tImg .tImgIntro
+{
+	width:220px;
+	height:225px;
+	position:absolute;
+	right:0;
+	bottom:0;
+	z-index:1;
+}
+
+.detailContent .mainContent .tImg .tImgIntro i
+{
+	background:#fff;
+	position:absolute;
+	z-index:-1;
+	opacity:0.8;
+	top:0;
+	bottom:0;
+	width:100%;
+	filter:alpha(opacity:80);
+}
+
+.detailContent .mainContent .tImg .tImgIntro p
+{
+	padding:35px;
+}
+
+.detailContent .mainContent .tImg .tImgIntro li
+{
+	float:left;
+	_display:inline;
+	width:8px;
+	height:8px;
+	background:#5c307d;
+	margin:4px;
+	cursor:pointer;
+	border-radius:4px;
+	
+}
+
+.detailContent .mainContent .tImg .tImgIntro li.current
+{
+	background:#ff9600;
+}
+
+.detailContent .mainContent .tImg .tImgIntro ul
+{
+
+	position:relative;
+	left:50%;
+}
+.detailContent .mainContent .tImg .tImgIntro .pnav div
+{
+    float: right;
+    left: -50%;
+    position: relative;
+}
+
+.detailContent .mainContent .tImg .tImgIntro .pnav
+{
+	position:absolute;
+	bottom:20px;
+	width:100%;
+}
+
+.detailContent .mainContent .calendar
+{
+	background:#F1F1F1;
+	padding:0.3em 20px 20px 20px;
+	margin-bottom:40px;
+	
+}
+
+.headmore
+{
+	font-family:sans-serif;
+	font-size:12px;
+	float:right;
+}
+
+.detailContent .mainContent .calendar #datepicker
+{
+	background:#fff;
+	border:1px solid #F90;
+	padding:3px;
+	border-radius:3px;
+}
+
+.detailContent .mainContent .calendar #datepicker .ui-datepicker
+{
+	font-size:12px;
+	padding:0;
+	width:100%;
+}
+
+.detailContent .mainContent .calendar h3
+{
+	color:#22132d;
+	font-size:16px;
+	line-height:4em;
+}
+.detailContent .mainContent .calendar .highlight a.ui-state-default {
+    background: #5C307D;
+    color: #FFFFFF;
+	border:1px solid #5C307D;
+}
+
+.detailContent .mainContent .calendar .ui-datepicker table
+{
+	font-size:12px;
+}
+
+.detailContent .mainContent .calendar .ui-datepicker .ui-state-default
+{
+	color:#aaa;
+}
+
+.detailContent .relateLink h4
+{
+	font-size:16px;
+	color:#555;
+	background:#f4f4f4;
+	padding:1.5em 0 0.75em 0;
+	text-indent:0.75em;
+}
+
+.detailContent .relateLink ul
+{
+	margin-top:10px;
+	padding-left:12px;
+}
+
+.detailContent .relateLink ul li
+{
+	padding:4px 0;
+}
+
+.detailContent .relateLink a
+{
+	display:block;
+	color:#777;
+	zoom:1;
+}
+
+.detailContent .relateLink a:hover
+{
+	color:#5c307d
+}
+
+.detailContent .relateLink a i
+{
+	float:right;
+}
+
+
+.ulayer
+{
+	width:760px;
+	height:460px;
+}
+
+.ulayer .close {
+    display: block;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+	font-size:20px;
+	cursor:pointer;
+}
+
+
+.ulayer .layerbox
+{
+	padding:48px;
+}
+
+.ulayer .uname {
+    color: #22132D;
+    font-size: 24px;
+	padding-top:0.1em;
+	padding-bottom:0.70em;
+	margin-bottom:0.5em;
+    font-weight: normal;
+	border-bottom:1px solid #ddd;
+}
+
+.ulayer .uname .r {
+    color: #777;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+
+.ulayer .imgwrap {
+    display: inline;
+    float: right;
+}
+
+.ulayer .imgwrap img
+{
+    border: 1px solid #CCCCCC;
+    padding: 4px;
+}
+
+.ulayer .sidebar {
+    background: none repeat scroll 0 0 #E0E0E0;
+    display: inline;
+    float: left;
+    height: 445px;
+    margin-left: 40px;
+    margin-top: 25px;
+    position: relative;
+    width: 6px;
+}
+
+.ulayer .sidebar a.bar {
+    background: none repeat scroll 0 0 #009400;
+    display: block;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 6px;
+}
+
+.ulayer .leftarea {
+	margin-right:140px;
+	height:100%;
+}
+
+.ulayer .innerarea
+{
+	height:100%;
+	overflow:auto;
+}
+
+.ulayer .innerarea p
+{
+	font-size:14px;
+	line-height:23px;
+	padding:0.75em 0;
+}
+
+
+
+.detailContent .mainContent .subChannelTopImg
+{
+	margin-bottom:40px;
+	width:100%;
+}
+
+
+.content .mainContent .subChannelListNoImg figure 
+{
+	height:190px;
+	border-top: 2px solid #5C307D;
+}
+
+
+.content .mainContent .subChannelListNoImg li.alternative figure
+{
+	border-top: 2px solid #E0823D;
+}
+
+
+.detailContent .mainContent .subChannelList li
+{
+	width:50%;
+
+}
+
+
+.detailContent .mainContent .subChannelList.subChannelListNoImg figure 
+{
+	height:120px;
+}
+
+
+.detailContent .mainContent .subChannelList figure 
+{
+	height:250px;
+}
+
+
+.content .attachment
+{
+	background:url(pdf.gif)/*tpa=http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/images/pdf.gif*/ no-repeat left center;
+	display:inline-block;
+	padding:0.4em 0.2em 0.4em 22px;
+	white-space:nowrap;
+}
+
+
+.content .commContent .mainContent .articleIntro
+{
+	margin:-1.5em 15px 2em 15px;
+	font-size:14px;
+	line-height:24px;
+}
+
+.content .commContent .mainContent .articleIntro p
+{
+	padding:0.75em 0;
+}
+
+.content .commContent .subChannelList li figure.job
+{
+	border:1px solid #ddd;
+	background:#fff;
+}
+
+.content .commContent .subChannelList figure.job a
+{
+	width:100%;
+	height:100%;
+	display:block;
+	position:relative;
+	overflow:hidden;
+}
+
+.content .commContent .subChannelList figure.job a span
+{
+	display:block;
+	margin:30px 0 0 35px;
+	font-size:24px;
+	*line-height:1.2em;
+	color:#5c307d;
+}
+
+.content .commContent .subChannelList figure.job i
+{
+	position:absolute;
+	color:#ff9600;
+	font-size:188px;
+	bottom:-45px;
+	right:-75px;
+}
+
+.content .commContent .subChannelList figure.job a:hover
+{
+	background:#f6f6f6;
+}
+
+.content .articleImg
+{
+	width:100%
+}
+
+.detailContent .mainContent .zoomlink
+{
+	position:relative;
+	background:#2c153e;
+	display:inline-block;
+}
+
+.detailContent .mainContent .zoomlink:hover img
+{
+	opacity:0.5;
+	filter:alpha(opacity=50);
+}
+
+.detailContent .mainContent .zoomlink i
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	color:#fff;
+	font-size:52px;
+	z-index:1;
+	margin-left:-0.8em;
+	margin-top:-0.8em;
+	display:none;
+}
+
+.detailContent .mainContent .zoomlink:hover i
+{
+	display:block;
+}
+
+.content .mainContent .academicList
+{
+	width:80%;
+	margin:auto;
+}
+
+.content .mainContent .academicList .showhideAll
+{
+	padding-bottom:15px;
+	color:#5C307D;
+}
+
+.content .mainContent .academicList .showhideAll span
+{
+	float:right;
+	display:inline-block;
+	font-size:12px;
+	margin:0 10px;
+	cursor:pointer;
+}
+
+.content .mainContent .academicList li
+{
+	margin-bottom:2px;
+}
+
+.content .mainContent .academicList li  div
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	font-size:16px;
+	line-height:2.6em;
+	background:#ededed;
+	display:block;
+	padding:0 0 0 1.5em;
+	color:#22132D;
+}
+
+.content .mainContent .academicList li  i
+{
+	float:right;
+	color:#666;
+}
+
+.content .mainContent .academicList li div i
+{
+	border-left:1px solid #ccc;
+	padding:0 0.6em;
+	cursor:pointer;
+	*line-height:2.6em;
+}
+
+.content .mainContent .academicList li div i:hover
+{
+	background:#f6f6f6;
+}
+
+.content .mainContent .academicList li  div.focus
+{
+	background:#e3e3e3;
+}
+.content .mainContent .academicList li  div.focus i
+{
+	background:#f6f6f6;
+}
+
+
+.content .mainContent .academicList li ul
+{
+	background:#f6f6f6;
+	padding:0.8em 0.5em 1.5em;
+	display:none;
+}
+
+.content .mainContent .academicList li ul li
+{
+	float:left;
+	_display:inline;
+	width:33.33%;
+}
+
+.content .mainContent .academicList li ul li span
+{
+	display:block;
+	padding:0.6em 0;
+	margin:0 20px;
+	border-bottom:1px solid #ddd;
+}
+
+.content .mainContent .academicList li ul li span a
+{
+	display:block;
+}
+
+.detailContent .mainContent .map
+{
+	border:1px solid #ccc;
+}
+
+.detailContent .mainContent .map #dituContent
+{
+	width:100%;
+	height:320px;
+}
+
+.detailContent .mainContent .article .busmap .nav
+{
+	background:#5c307d;
+}
+
+
+.detailContent .mainContent .article .busmap h3
+{
+	font-size:18px;
+	margin-bottom:1em;
+	border:0;
+}
+
+.detailContent .mainContent .article .busmap .nav li
+{
+	float:left;
+	_display:inline;
+	border-right:1px solid #8f5eb3;
+	
+}
+
+.detailContent .mainContent .article .busmap  .nav li a
+{
+	display:block;
+	line-height:48px;
+	color:#eed8ff;
+	text-align:center;
+	padding:0 1.25em;
+	font-size:16px;
+}
+
+.detailContent .mainContent .article .busmap  .nav li a:hover
+{
+	background:#68378d;
+}
+
+.detailContent .mainContent .article .busmap  .nav li.current
+{
+	border:0;
+}
+
+.detailContent .mainContent .article .busmap .nav li.current a
+{
+	margin-top:3px;
+	line-height:45px;
+	margin-left:1px;
+	background:#f7f7f7;
+	color:#444;
+}
+
+.detailContent .mainContent .article .busmap #stationlist .stationname
+{
+	background:#f7f7f7;
+	font-size:18px;
+	line-height:56px;
+	border-bottom:1px solid #ddd;
+	color:#5c307d;
+	padding-left:15px;
+	margin-bottom:10px;
+}
+
+.detailContent .mainContent .article .busmap #stationlist li
+{
+	display:none;
+}
+
+.detailContent .mainContent .article .busmap #stationlist .stationname i
+{
+	color:#ff9600;
+	font-size:24px;
+	margin-right:5px;
+}
+
+.detailContent .mainContent .article .busmap #stationlist .th td
+{
+	font-weight:bold;
+	color:#777;
+	font-size:12px;
+	border-bottom:2px solid #ddd;
+	padding:10px 13px;
+	border-left:none;
+}
+
+.detailContent .mainContent .article .busmap #stationlist  td
+{
+	padding:5px 13px;
+	white-space:nowrap;
+	border-left:none;
+}
+
+.detailContent .mainContent .article .busmap #stationlist  tr.topline td
+{
+	padding-top:15px;
+}
+
+.detailContent .mainContent .article .busmap #stationlist  td.busline
+{
+	font-weight:bold;
+}
+
+.detailContent .mainContent .article .openness td
+{
+	padding:0;
+	border:0;
+}
+
+.detailContent .mainContent .article .openness li
+{
+	padding:3px 0
+}
+
+.detailContent .mainContent .article .openness a
+{
+	font-size:12px;
+}
+
+.detailContent .mainContent .article .openness h4, .detailContent .mainContent .article .openness h4 a
+{
+	font-size:16px;
+}
+
+.detailContent .mainContent .article .openness h4
+{
+	padding:5px 0 0 0;
+}
+
+
+#flowmenu
+{
+	position:absolute;
+	text-align:right;
+	width:196px;
+	border-right:4px solid #ddd;
+	line-height:32px;
+}
+
+#flowmenu li
+{
+	padding:0 24px 0 0;
+	color:#777;
+	cursor:pointer;
+}
+
+#flowmenu li i
+{
+	display:none;
+}
+#flowmenu li.current
+{
+	position:relative;
+	right:-9px;
+	padding:0;
+	color:#444;
+	zoom:1;
+}
+
+#flowmenu li.current i
+{
+	display:inline-block;
+}
+
+#flowmenu span
+{
+	font-size:14px;
+	font-weight:bold;
+	padding-right:20px;
+}
+
+#flowmenu li i
+{
+	color:#5C307D;
+	font-size:10px;
+	margin-left:19px;
+}
+
+
+/**/
+
+.content .mainContent .article table
+{
+	width:100%;
+	text-align:left;
+}
+
+.content .mainContent .article table th
+{
+	text-align:left;
+}
+.content .mainContent .article table td
+{
+	padding:0.6em 0 0.6em 1.0em;
+	border-left:1px solid #EBEBEB;
+	vertical-align:top;
+}
+.content .mainContent .article table.zuZhiJieGou td
+{
+	padding-top:0.4em;
+	padding-bottom:0.4em;
+}
+.content .mainContent .article table.zuZhiJieGou td span
+{
+	font-size:12px;
+}
+.content .mainContent .article table.zuZhiJieGou td.tdline
+{
+	border:0;
+}
+.content .mainContent h3.hhh
+{
+	font-size:18px;
+	color:#22132d;
+	border-bottom:2px solid #BBBBBB;
+	padding-bottom:1em;
+	margin-bottom:1em;
+	padding-top:0.5em;
+}
+.content .mainContent .article table.xianRen td
+{
+	padding:8px 0 8px 7px;
+	border-left:0;
+	border-bottom: 1px solid #EBEBEB;
+}
+.content .mainContent .article table.xianRen td b
+{
+	padding-right:27px;
+	font-weight:normal;
+}
+.content .mainContent .article table td i.thuicon-stop,.content .mainContent .article .daJiShilist i.thuicon-stop,.content .mainContent .article .fsize i.thuicon-stop
+{
+	font-size:4px;
+	vertical-align:middle;
+	margin-right:5px;
+	color:#5C307D;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-width:800px) {
+.content .mainContent .article table td i.thuicon-stop:before,.content .mainContent .article .daJiShilist i.thuicon-stop:before,.content .mainContent .article .fsize i.thuicon-stop:before
+	{
+		-webkit-transform:scale(-.3);
+		margin-right:0;
+	}
+}
+.content .mainContent .article table.xianRen td a
+{
+	padding-right:27px;
+}
+.content .mainContent .article table td.tdline
+{
+	border:0;
+}
+
+.content .mainContent .article table td.nr
+{
+	white-space:nowrap;
+}
+.content .mainContent .article table td.tdborder
+{
+	border-bottom:1px solid #EBEBEB;
+	border-top:1px solid #EBEBEB;
+}
+.content .mainContent .article table td.tdborder_t
+{
+	border-top:1px solid #EBEBEB;
+}
+.content .mainContent .article table td.tdborder_b
+{
+	border-bottom:1px solid #EBEBEB;
+}
+.content .mainContent .article table.liRen td b
+{
+	display:block;
+}
+.content .mainContent .article table.liRen td span
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	font-size:12px;
+	line-height:12px;
+}
+.content .mainContent .article table.liRen th
+{
+	padding:0 0 10px 15px;
+	border-bottom:2px solid #BBBBBB;
+	font-size:12px;
+	color:#777;
+	font-weight:bold;
+}
+
+.content .mainContent .article table.liRen th.alignright
+{
+	text-align:right;
+}
+.content .mainContent .article table.tongJi
+{
+	font-size:16px;
+}
+.content .mainContent .article span.highlight
+{
+	color: #FF6600;
+	font-weight:bold;
+}
+.content .mainContent .article table.tongJi td.indent
+{
+	font-size:14px;
+	padding-left:40px;
+}
+.content .mainContent .article table.tongJi td.indent_1
+{
+	font-size:14px;
+	padding-left:20px;
+}
+.content .mainContent .article table.tongJi td.indent_2
+{
+	padding-left:82px;
+}
+
+.content .mainContent .article table.tongJi span.small
+{
+	font-size:12px;
+	display:block;
+}
+.content .mainContent .article p.zhu
+{
+	font-size:12px;
+	padding:20px 0 50px 0;
+}
+.content .mainContent .daJiShilist ul li
+{
+	color:#555555;
+	line-height:24px;
+	border-bottom:1px solid #E2E2E2;
+	padding:10px 0;
+}
+.content .mainContent .daJiShilist ul li b
+{
+	padding:0 26px 0 20px;
+}
+.content .mainContent .daJiShilist ul li span
+{
+	padding-left:97px;
+}
+.content .mainContent .article table.daJiShilist td b
+{
+	padding:0 1em;
+}
+.content .mainContent .article table.daJiShilist td.f
+{
+	white-space:nowrap;
+}
+
+.content .mainContent .article.fullwidth ul.qiTa li
+{
+	float:left;
+	width:50%;
+}
+.content .mainContent .article.fullwidth ul.qiTa li p
+{
+	border-bottom:1px solid #ECECEC;
+	margin-right:30px;
+	padding:0;
+}
+.content .mainContent .article.fullwidth ul.qiTa li a
+{
+	display:inline-block;
+	padding:12px 0;
+	width:100%;	
+}
+.content .mainContent .article.fullwidth ul.qiTa li .thuicon-angle-right
+{
+	float:right;
+}
+.content .mainContent .article .yuanShi
+{
+	padding-top:28px;
+}
+.content .mainContent .article .yuanShi table td
+{
+	width:25%;
+	font-size:12px;
+	line-height:32px;
+	border:0;
+	padding:0;
+}
+.content .mainContent .article  table td.mingShi
+{
+	font-size:16px;
+	padding-top:1.5em;
+	color:#5C307D;
+}
+.content .mainContent .article .keXue h3,.content .mainContent .article h3.eduborder
+{
+	border-bottom:1px solid #cccccc;
+}
+.content .mainContent .article .keXue table td
+{
+	width:25%;
+	border-left:0;
+	font-size:12px;
+	padding:2px 0 2px 20px;
+}
+.content .mainContent .article .keXue table .rightborder
+{
+	border-right:1px dotted #C4C4C4;
+	padding:0 33px 12px 0;
+}
+.content .mainContent .article .keXue table.liRen th
+{
+	border-bottom:0;
+	font-size:14px;
+}
+.content .mainContent .article table.t-3 td
+{
+	width:25%;
+}
+.content .mainContent .article table.t-3 td span
+{
+	border:1px solid #000;
+}
+.content .mainContent .article i.thuicon-circle
+{
+	font-size:4px;
+	margin-right:7px;
+	vertical-align:middle;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.content .mainContent .article i.thuicon-circle:before
+	{
+		-webkit-transform:scale(0.3);
+		margin-right:0;
+	}
+}
+.content .mainContent .article .fsize
+{
+	font-size:12px;
+}
+.content .mainContent .article a.visit
+{
+	font-size:16px;
+	color:#FFF;
+	display:block;
+	background:#5C307D;
+	padding:0.8em 1.5em;
+	border-radius:5px;	
+}
+.content .mainContent .article a.visit i
+{
+	float:right;
+	color:#FFF;
+	font-size:16px;
+}
+
+.content .mainContent .article a.visit:hover
+{
+	background:#FF9600
+}
+
+.content .mainContent .article table.xianRen ul li
+{
+	padding:0.2em 0;
+}
+.content .mainContent .article .yuanShi .xwxm td,.content .mainContent .article .yuanShi .xwxm th
+{
+	background-color:#FFF;
+	text-align:center;
+}
+
+	
+.contentImgright
+{
+	float:right;
+	margin:5px 0 10px 10px;
+}
+
+
+/**/
+
+
+@media screen and (max-width:1200px) {
+	
+	.content .thuimg .thuimgWrap
+	{
+		min-width:100%
+	}
+	.content .thuimg .thuimgWrap img,.content .channeltopimg img
+	{
+		width:100%;
+		height:auto;
+	}
+}
+
+@media screen and (max-width:1000px) {
+	
+
+	.content .channelInfo
+	{
+		width:280px;
+		height:150px;
+		top:-190px;
+		padding:20px;
+	}
+	
+	.content .channelInfo h2
+	{
+		font-size:24px;
+	}
+	
+	.content .channelInfo p
+	{
+		font-size:12px;
+
+	}
+}
+
+@media screen and (max-width:800px) {
+	
+	.inner .header .nav li
+	{
+		padding:5px 1px 5px 2px;
+	}
+
+	.inner .header .nav li a
+	{
+		padding: 0 8px;
+	}
+	#nav ul.last
+	{
+		right:1px;
+	}
+	.thuimgContent
+	{
+		padding-top:20px;
+	}
+	
+	.thuimgContent .dayList li
+	{
+		margin-right:10px;
+		text-align:center;
+		margin-bottom:10px;
+	}
+	
+	.thuimgContent .yearlist .year
+	{
+		margin-right:20px;
+		padding:10px 15px 15px;
+	}
+	
+	.thuimgContent .dayList li a
+	{
+		width:48px;
+		height:48px;
+		font-size:10px;
+	}
+	
+	.thuimgContent .dayList li a span
+	{
+		font-size:18px;
+		line-height:20px;
+		padding-top:6px;
+	}
+	
+	.thuimgContent .yearlist li a span
+	{
+		font-size:14px;
+	}
+	
+	.thuimgContent .dayList li.today a
+	{
+		width:110px;
+		height:110px;
+		font-size:20px;
+		border:0;
+		*line-height:30px;
+	}
+	
+	.thuimgContent .dayList li.today a span
+	{
+		font-size:40px;
+		line-height:66px;
+		*margin-bottom:-10px;
+	}
+	
+	.thuimgContent .dayList li.more a
+	{
+		font-size:12px;
+		line-height:48px;
+	}
+	
+	.thuimgContent .thuimglist li div
+	{
+		margin:0 10px 20px;
+	}
+	
+	.thuimgContent .thuimglist li a
+	{
+		font-size:15px;
+	}
+	
+	.thuimgContent .thuimglist li span
+	{
+		font-size:10px;
+		width:48px;
+		height:48px;
+	}
+	
+	.thuimgContent .thuimglist li span i
+	{
+		font-size: 18px;
+		line-height:20px;
+		padding-top:8px;
+		margin-bottom:-5px;
+	}
+	
+	.thuimgContent .column_1
+	{
+		width:130px
+	}
+	
+	.thuimgContent .column_2
+	{
+		width:620px;
+		margin:0 0 0 10px;
+	}
+	
+	.thuimgContent .column_3
+	{
+		width:120px;
+	}
+
+	.content .mainContent .article
+	{
+		margin-right:30px;
+		width:470px;
+	}
+	
+	.contentNav h1
+	{
+		font-size:24px;
+	}
+	
+	.contentNav h1.txtTitle
+	{
+		font-size: 20px
+	}
+	
+	.contentNav
+	{
+		margin-bottom:30px;
+	}
+	
+	.detailContent .column_1
+	{
+		width:160px;
+	}
+	
+	.detailContent .leftNav
+	{
+		top:-25px;
+	}
+	
+	.detailContent .leftNav li
+	{
+		font-size:14px;
+	}
+	
+	.detailContent .leftNav h3
+	{
+		line-height:50px;
+		font-size:18px;
+	}
+	
+	.detailContent .leftNav li i
+	{
+		padding:1.4em 4px;
+	}
+	
+	.detailContent .column_2
+	{
+		margin:0 0 0 20px;
+		width:580px;
+	}
+	
+	.detailContent .column_3
+	{
+		width:140px;
+	}
+	.content .mainContent .article
+	{
+		margin-right:20px;
+		width:420px;
+	}
+	.detailContent .contentNav
+	{
+		padding-top:12px;
+	}
+	.detailContent .mainContent .article h2
+	{
+		font-size:18px;
+	}
+	
+	.content .mainContent .subChannelList figure li
+	{
+		float: none;
+		_display:block;
+		width:100%
+	}
+	
+	.content .commContent .multiChannel figure 
+	{
+		height:	430px
+	}
+	
+	.detailContent .mainContent .subChannelList.subChannelListNoImg figure
+	{
+		height:130px;
+	}
+	
+	.detailContent .mainContent .subChannelList figure 
+	{
+		height:230px;
+	}
+
+	
+	.content .mainContent .subChannelListNoImg figure
+	{
+		height:	220px
+	}
+	
+	.content .mainContent .academicList li ul li
+	{
+		width:50%;
+	}
+	
+	.detailContent .mainContent .article .busmap  .nav li a
+	{
+		font-size:14px;
+		padding:0 0.9em;
+	}
+	
+	.detailContent .mainContent .tPic #Bimg
+	{
+		height:346px;
+	}
+	
+	.detailContent .mainContent .tImg #Bimg
+	{
+		height:241px;
+	}
+
+
+	
+	.detailContent .mainContent .article .busmap #stationlist .stationname
+	{
+		font-size:16px;
+		line-height:50px;
+		padding-left:10px;
+		margin-bottom:5px;
+	}
+	
+	#flowmenu
+	{
+		width:156px;
+	}
+	
+	.content .mainContent .article a.visit
+	{
+		font-size:14px;
+	}
+	
+/**/
+	
+	.content .mainContent .article .keXue table.liRen th
+	{
+		font-size:12px;
+	}
+/**/
+}
+
+@media screen and (max-width:640px) {
+	
+	.inner .header .nav li
+	{
+		padding:0;
+	}
+	
+	.thuimgContent .column_1,.thuimgContent .column_2,.thuimgContent .column_3
+	{
+		float:none;
+		width:auto;
+	}
+	
+	.content .thuimgContent .mainContent .contentNav
+	{
+		margin-left:0;
+		margin-right:0;
+	}
+	
+	.thuimgContent .column_2
+	{
+		margin:0 20px;
+	}
+	
+	.thuimgContent .dayList li
+	{
+		margin-bottom:20px;
+		margin-left:20px;
+		margin-right:0px;
+	}
+	
+	.thuimgContent .dayList li.today a
+	{
+		width:48px;
+		height:48px;
+		font-size:10px;
+	}
+	
+	.thuimgContent .dayList li.today a span
+	{
+		font-size:18px;
+		line-height:20px;
+		padding-top:6px;
+	}
+	
+	.thuimgContent .yearlist .year
+	{
+		margin-right:0
+	}
+	
+	.thuimgContent .dayList li.stat
+	{
+		display:none;
+		padding:0;
+		margin:0 0 10px 0;
+	}
+	.content  .mainContent .article
+	{
+		margin-right:0;
+		width:auto;
+		float:none;
+		padding-bottom:30px;
+	}
+	
+	.authorlist li
+	{
+		float:left;
+		_display:inline;
+		margin-right:20px;
+	}
+	
+	.content .channelInfo
+	{
+		left:20px;
+		width:auto;
+		height:50px;
+		padding:15px;
+		top:-80px;
+	}
+	
+	.content .channelInfo h2
+	{
+		border:0;
+	}
+	
+	.content .channelInfo p
+	{
+		display:none;
+	}
+	
+	.contentNav h1.noNav
+	{
+		font-size:20px;
+	}
+	
+	.content .mainContent .subChannelList li
+	{
+		margin-bottom:20px;
+	}
+
+	
+	.content .mainContent .subChannelList figure 
+	{
+		margin:0 10px;
+	}
+	
+	.detailContent .column_1, .detailContent .column_2
+	{
+		float:none;
+		width:auto;
+	}
+	
+	.detailContent .column_2
+	{
+		margin:0 20px;
+	}
+	
+	.detailContent  .mainContent .article
+	{
+		 margin-right: 30px;
+		width: 430px;
+		float: left;
+		_display:inline;
+	}
+	
+	.detailContent .leftNav
+	{
+		border:0;
+		top:0;
+		left:0;
+	}
+	
+	.detailContent .leftNav ul
+	{
+		margin-top:0;
+		display:none;
+		background:#f6f6f6;
+	}
+	
+	.detailContent .leftNav .menuicon {
+		color: #fff;
+		float: right;
+		display:block;
+	}
+	
+	.detailContent .leftNav h3
+	{
+		cursor:pointer;
+	}
+	
+	
+	.detailContent .leftNav li ul
+	{
+		background:#eee;
+	}
+	
+	.detailContent .leftNav li i
+	{
+		padding-left:14px;
+		padding-right:14px;
+	}
+	
+	.detailContent .leftNav li i:hover, .detailContent .leftNav li i.current
+	{
+			background:#eee;
+	}
+	
+	.detailtopimg
+	{
+		display:none;
+	}
+	
+	.ulayer
+	{
+		width:90%;
+		height:90%;
+	}
+	
+	.ulayer .layerbox
+	{
+		padding:40px;
+	}
+	
+	.detailContent .mainContent .subChannelList.subChannelListNoImg figure {
+		height: 150px;
+	}
+	
+	.detailContent .mainContent .subChannelTopImg
+	{
+		margin-bottom:30px;
+	}
+	
+	.content .mainContent .subChannelListNoImg figure
+	{
+		height:	260px
+	}
+	
+	.content .commContent .mainContent .articleIntro
+	{
+		font-size:12px;
+		line-height:20px;	
+	}
+	
+	.detailContent .mainContent .tPic #Bimg
+	{
+		height:358px;
+	}
+	
+	.detailContent .mainContent .tImg #Bimg
+	{
+		height:249px;
+	}
+	
+	#flowmenu
+	{
+		display:none;
+	}
+	
+	#thutree
+	{
+		width:100%
+	}
+
+
+
+/**/
+
+	.content .mainContent .article table.tongJi td.indent
+	{
+		font-size:12px;
+	}
+	.content .mainContent h3.hhh
+	{
+		font-size:16px;
+	}
+/**/
+	
+}
+
+@media screen and (max-width:480px) {
+	
+	
+	.contentNav h1
+	{
+		font-size: 20px
+	}
+	
+	.contentNav h1.txtTitle
+	{
+		font-size: 16px
+	}
+	
+	.content .mainContent .article
+	{
+		font-size:12px;
+		line-height:20px;
+	}
+	
+	.thuimgContent .yearlist .year
+	{
+		width:40%;
+	}
+	
+	.thuimgContent .thuimglist li div
+	{
+		margin: 0 5px 20px;
+	}
+	
+	.thuimgContent .thuimglist li a
+	{
+		font-size:12px;
+	}
+	
+	.content .channelInfo
+	{
+		top: -45px;
+		height: 15px;
+	}
+	
+	.content .channelInfo h2
+	{
+		display:none;
+	}
+	
+	.content .mainContent .subChannelList li
+	{
+		width:50%;
+	}
+	
+	.content .mainContent .subChannelList figure 
+	{
+		height:250px;
+	}
+	
+
+	.content .commContent .multiChannel figure 
+	{
+		height:	380px
+	}
+		
+	.detailContent .mainContent .article h2
+	{
+		font-size:16px;
+	}
+	
+	.detailContent .mainContent .article
+	{
+		margin:0;
+		width:100%;
+	}
+	.detailContent .column_3
+	{
+		display:none;
+	}
+	
+	.detailContent .mainContent .tImg .tImgIntro p
+	{
+		display:none;
+	}
+	
+	.detailContent .mainContent .tImg .tImgIntro
+	{
+		height:40px;
+		width:100%;
+	}
+	
+	.detailContent .mainContent .tImg .tImgIntro .pnav
+	{
+		bottom:10px;
+	}
+	
+	.ulayer .innerarea p
+	{
+		font-size:12px;
+	}
+	
+	
+	.detailContent .mainContent .tImg,.detailContent .mainContent .map 
+	{
+		margin-bottom:30px;
+	}
+	
+	
+	.detailContent .mainContent .subChannelList.subChannelListNoImg figure {
+		height: 150px;
+	}
+	
+	.detailContent .mainContent .calendar h3
+	{
+		font-size:14px;
+	}
+	
+	.content .mainContent .academicList li ul li
+	{
+		width:100%;
+	}
+	
+	.detailContent .mainContent .article .busmap h3
+	{
+		font-size:16px;
+	}
+	
+	.detailContent .mainContent .tPic #Bimg
+	{
+		height:263px;
+	}
+	.detailContent .mainContent .tImg #Bimg
+	{
+		height:183px;
+	}
+	
+	.content .mainContent .article.fullwidth ul.qiTa li
+	{
+		width:100%;
+	}
+	
+	.content .mainContent .article.fullwidth ul.qiTa li p
+	{
+		margin:0;
+	}
+	
+	.content .mainContent .article table td.mingShi
+	{
+		font-size:15px;
+	}
+	
+	.content .mainContent .article a.visit
+	{
+		font-size:14px;
+	}
+
+	.detailContent .mainContent .tPic .PicIntro
+	{
+		font-size:12px;
+	}
+	.detailContent .mainContent .tPic .PicIntro h3
+	{
+		font-size:15px;
+	}
+	
+	.contentImg
+	{
+		width:100%;
+	}
+	
+
+}
+
+@media screen and (max-width:360px) {
+	.thuimgContent .thuimglist li
+	{
+		width:100%
+	}
+	
+	.thuimgContent .thuimglist li div
+	{
+		margin: 0 0px 20px;
+	}
+	
+	.content .channelInfo
+	{
+		padding:10px;
+		top:-35px;
+	}
+	
+	.thuimgContent .thuimglist li a
+	{
+		font-size:15px;
+	}	
+	.content .mainContent .subChannelList li
+	{
+		width:100%;
+	}
+	.content .mainContent .subChannelList figure ,.detailContent .mainContent .subChannelList.subChannelListNoImg figure
+	{
+		height:auto;
+		padding-bottom:1.5em;
+	}
+	.content .mainContent .subChannelList figure figcaption
+	{
+		padding: 1.2em 24px 0;
+	}
+	
+	
+	.content .mainContent .subChannelList figure p
+	{
+		padding: 0 24px;
+	}
+	
+	
+	.contentNav
+	{
+		margin-bottom:20px;
+	}
+	
+	.ulayer .imgwrap
+	{
+		float:none;
+		display:block;
+	}
+	
+	.ulayer .leftarea
+	{
+		margin:0;
+	}
+	
+	.ulayer .uname
+	{
+		margin-top:20px;
+		font-size:18px;
+	}
+	
+	.detailContent .mainContent .tImg,.detailContent .mainContent .map 
+	{
+		margin-bottom:20px;
+	}
+
+	
+	.detailContent .mainContent .subChannelTopImg
+	{
+		margin-bottom:20px;
+	}
+	.detailContent .mainContent .subChannelList figure
+	{
+		margin-left:0;
+		margin-right:0;
+	}
+	
+	.content .commContent .subChannelList li figure.job
+	{
+		height:100px;
+		padding:0;
+	}
+	
+	.content .commContent .subChannelList figure.job a span
+	{
+		line-height:100px;
+		margin-top:0;
+	}
+	
+	.content .mainContent .academicList li  div
+	{
+		font-size:14px;
+	}
+	
+	.detailContent .mainContent .article .busmap  .nav li a
+	{
+		font-size:12px;
+		padding:0 0.6em;
+	}
+	
+	.detailContent .mainContent .article .busmap #stationlist .stationname
+	{
+		font-size:14px;
+		line-height:40px;
+		padding-left:8px;
+	}
+
+	.detailContent .mainContent .tPic #Bimg
+	{
+		height:191px;
+	}
+
+	.detailContent .mainContent .tImg #Bimg
+	{
+		height:133px;
+	}
+
+
+/**/
+	.content .mainContent .article .benKe table td
+	{
+		width:50%;
+	}
+	
+	.content .mainContent .article table.tongJi td.indent
+	{
+		padding-left:20px;
+	}
+	
+		.contentImgright
+	{
+		float:none;
+		display:block;
+		margin:5px 0 10px 0;
+	}
+
+
+	
+/**/	
+}
+
+@media screen and (max-width:320px) {
+	.thuimgContent .yearlist .year
+	{
+		width:33%;
+	}
+	
+	.content .channelInfo h2
+	{
+		padding-bottom:0;
+	}
+	
+	.detailContent .leftNav h3
+	{
+		font-size:16px;
+		line-height:40px;
+	}
+	
+	.detailContent .contentNav h1
+	{
+		font-size:16px;
+	}
+	
+	.detailContent .mainContent .article .busmap  .nav li a
+	{
+		font-size:12px;
+		padding:0 0.4em;
+	}
+	
+	.detailContent .mainContent .article .busmap h3
+	{
+		font-size:14px;
+	}
+
+	.detailContent .mainContent .tPic #Bimg
+	{
+		height:167px;
+	}
+
+	.detailContent .mainContent .tImg #Bimg
+	{
+		height:116px;
+	}
+
+
+/**/
+	.content .mainContent .article .keXue table td
+	{
+		padding:0 0 12px 0;
+	}
+	.content .mainContent .article .keXue table .rightborder
+	{
+		padding:0 15px 12px 0;
+	}
+	.content .mainContent .article .benKe table td
+	{
+		width:50%;
+	}
+/**/	
+}

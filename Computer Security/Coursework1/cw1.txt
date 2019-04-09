@@ -1,0 +1,146 @@
+﻿####
+# Part A
+####
+
+Question 2
+Answer:
+Page State: Initial start page with no content and not logged in.
+Link Text: “Home”
+Data: No data is sent
+Effect: Page reloads with no change.
+
+Page State: Initial start page with no content and not logged in.
+Link Text: "Alice`s Message Board"
+Data: No data is sent
+Effect: Page redirct to login page
+
+Page State: Login page with two empty input fields and and not logged in.
+Link Text: “Home” 
+Data: No data is sent.
+Effect: Page redict to home page.
+
+Page State: Login page with two empty input fields and and not logged in.
+Link Text: "Alice`s Message Board".
+Data: No data is sent.
+Effect: Page reloads with no change.
+
+Page State: Login page with wrong username-password combination and not logged in.
+Link Text: "login"
+Data: username-password combination is transferred by GET.
+Effect: Page reloads with empty input fields.
+
+Page State: Login page with right username-password combination(mallet and mallet123)and not 	logged in.
+Link Text: "login"
+Data: username-password combination is transferred by GET.
+Effect: Page redirect to message page, which contains messages and a empyt textarea.
+
+Page State: Message page and logged in.
+Link Text: "Home"
+Data: No data is sent
+Effect: Page redict to home page and with a "[logout]" label
+
+Page State: Message page and logged in.
+Link Text: "Alice`s Message Board"
+Data: No data is sent
+Effect: page reload with empty textarea.
+
+Page State: Message page and logged in.
+Link Text: "[logout]"
+Data: no data is sent
+Effect: page redirct to home page without "[logout]" label
+
+Page State: Message page and logged in and some text in text area.
+Link Text: "submit"
+Data: text in textarea is sent by POST
+Effect: page redirct with a new message display below the buttons.
+
+Page State: Home page with logged in.
+Link Text: "Home"
+Data: No data is sent
+Effect: page reload with no change.
+
+Page State: Home page with logged in.
+Link Text: "Alice`s Message Board"
+Data: No data is sent
+Effect: page redirct to message page with empty textarea
+
+Page State: Home page with logged in.
+Link Text: "[logout]"
+Data: No data is sent.
+Effect: page reload but without "[label]" label.
+
+Question 3
+Answer:
+the algorithm for the session id maybe is sid=2*sessionNumber. for example, if these is only one session, this sid for this session is 2(2*1). if there are two session, and the sid for the later session is 4(2*2).
+
+Question 4
+Answer:
+The first step is use bob sending a message then record the URL(http://alice/index.php?msg=i+am+bob&id=forum&sid=10). So right now we know bob`s session id is 10. When we want to forge a URL with data to publish a message as bob, just log into alice and type URL like this (http://alice/index.php?msg=i+am+alice&id=forum&sid=10) and we can see bob says "i am alice." in the messages box below.
+preconditions: bob must be logged in. Attacker must be logged in. Get bob`s session id and the structure of URL. 
+limitations: First of all, bob must be logged in. And attacker must get session id during bob is logged in. If bob logout, this attack will fail. and this akkatck just one-time. Next time bob logged in, it will be assigned with another session id.
+
+####
+# Part B
+####
+
+Question 1
+Answer:
+When I use the username "dont know' OR '1'='1' -- " and a ramdon password, I can log in the system with name "gary". Since the SQL has become "SELECT id FROM users WHERE username='dont know' OR '1'='1' -- ' AND password='123'", '1'='1' is always true, so acutally, the SQL which is executed is "SELECT id FROM users". And the system return the user Gary.
+
+Question 2
+Answer:
+User List: gray, alice, bob, mallet
+explanation: first of all, I tried username "dont know' OR '1'='1' -- " and get user Gary. Then I do "dont know' OR id='1' -- ", this SQL will let the system to return the user with id=1 if it exists, so I get alice. Then I do id=2 and id=3, get bob and mallet. But I can`t find the id for GARY, so I do username="dont' AND (SELECT count(*) FROM user)>3" and I success in login, that means There are more than 3 users, finally, when I try username="dont' AND (SELECT count(*) FROM user)>4", I failed to log in, that means there are only 4 users in thi ssystem. They are gary, bob, alice and mallet.
+
+
+Question 3
+Answer:
+input string for username: "bob';UPDATA users SET password='1234' WHERE username='alice' -- ". So when system execute this sql line, it actually excutes two sqls, one is "SELECT id FROM users WHERE username='bob';" and "UPDATA users SET password='1234' WHERE username='alice';", so, in the second sql, when change alice`s password to '1234'.
+
+####
+# Part C
+####
+
+Quetion 2:
+Answer:
+Open port: 21/tcp 22/tcp 23/tcp 25/tcp 80/tcp 111/tcp 443/tcp 2049/tcp 6000/tcp
+MAC:08:00:27:CA:FE:32
+
+Quetion 3:
+TCP SYN:This technique is often referred to as half-open scanning, because you don't open a full TCP connection. You send a SYN packet, as if you are going to open a real connection and then wait for a response. A SYN/ACK indicates the port is listening (open), while a RST (reset) is indicative of a non-listener. If no response is received after several retransmissions, the port is marked as filtered. 
+
+Advantage of TCP SYN Scanning: It can be performed quickly, scanning thousands of ports per second on a fast network not hampered by restrictive firewalls. It is also relatively unobtrusive and stealthy since it never completes TCP connections. SYN scan works against any compliant TCP stack rather than depending on idiosyncrasies of specific platforms as Nmap's FIN/NULL/Xmas, Maimon and idle scans do. It also allows clear, reliable differentiation between the open, closed, and filtered states.
+
+TCP ACK scan: This scan is different than the others discussed so far in that it never determines open (or even open|filtered) ports.The ACK scan probe packet has only the ACK flag set. When scanning unfiltered systems, open and closed ports will both return a RST packet. Nmap then labels them as unfiltered, meaning that they are reachable by the ACK packet, but whether they are open or closed is undetermined.
+
+The advantage of TCP scan:  It is used to map out firewall rulesets, determining whether they are stateful or not and which ports are filtered.
+
+XMAS scan:Xmas scan will send a packet with (FIN, PSH, and URG flags).This scan exploit a subtle loophole in the TCP RFC to differentiate between open and closed ports -- when scanning systems compliant with this RFC text, any packet not containing SYN, RST, or ACK bits will result in a returned RST if the port is closed and no response at all if the port is open. As long as none of those three bits are included, any combination of the other three (FIN, PSH, and URG) are OK.
+
+The advantage of XMAS scan: The key advantage to these scan types is that they can sneak through certain non-stateful firewalls and packet filtering routers. Another advantage is that these scan types are a little more stealthy than even a SYN scan.
+
+Quetion 4:
+First security risk is buffer overflow, with a specially crafted request, an attacker can execute arbitrary code resuling in a loss of integrity and availability. Such as attackers may use buffer overflow program to shutdown the server, or make the server crash.
+Second security risk is remote flaw, quite like buffer overflow I think. With a specially crafted request, an attacker can possibly execute arbitrary code to get root, resulting in a loss of integrity and/or availability.
+Third security risk is multiple input-validation vulnerabilities, including cross-site scripts and SQL injection.The first one may use some JavaScript to fraud users and get user information, whlie the later may use some SQL sequences to get information from database or destroy database.
+Third security risk is that the server is prone to Denial of Services. When a reverse proxy is configured, the sever may not be able to handle an mount of streamed data, resulting in a loss of availability. 
+
+####
+# Part D
+####
+
+Answer:
+# Generated by iptables-save v1.4.4 on Sun Oct 23 23:14:18 2016
+*filter
+:INPUT ACCEPT [300:17933]
+:FORWARD ACCEPT[0:0]
+:OUTPUT ACCEPT[1088:64625]
+-A INPUT -i lo -j ACCEPT
+-A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 22 -m state --state NEW -m recent --set --name DEFAULT --resource
+-A INPUT -p tcp -m tcp --dport 22 -m state --state NEW -m recent --update --seconds 60 --hitcount 16 --name DEFAULT -j DROP
+-A INPUT -p tcp --dport 22 -j ACCEPT
+-A INPUT -p tcp --dport 80 -j ACCEPT
+-A INPUT -j DROP
+COMMIT
+# Completed on sun Oct 23 23:14:18 2016
